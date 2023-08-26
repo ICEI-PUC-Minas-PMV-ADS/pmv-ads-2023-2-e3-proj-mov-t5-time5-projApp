@@ -1,4 +1,4 @@
-# Especificações do Projeto
+ # Especificações do Projeto
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
@@ -204,17 +204,14 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
-
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
-
+| História de usuário | Requisito | Prioridade | Responsável | Status | RNF | RF | Ordem de prioridade | MoSCow | Escala de 3 níveis |
+|---|---|---|---|---|---|---|---|---|---|
+| Mariana está procurando um novo livro para ler. | O aplicativo deve fornecer uma interface fácil de usar que permita aos usuários navegar pelas categorias e encontrar livros que sejam do seu interesse. | Alta | Desenvolvedores: Gustavo e Kevin | Em desenvolvimento | Portabilidade: O aplicativo deve ser executado em dispositivos móveis com sistemas operacionais Android e iOS. | Segurança: O aplicativo deve proteger os dados dos usuários contra acesso não autorizado. | 1 | Must-haves |  Importante e Urgente |
+| João está procurando um livro para dar de presente para sua filha. | O aplicativo deve permitir aos usuários comprar livros para serem enviados para qualquer endereço. | Alta | Desenvolvedores: David e Maxwell | Em desenvolvimento | Desempenho: O aplicativo deve carregar os livros rapidamente, mesmo em dispositivos móveis com recursos limitados. | Recursos: O aplicativo deve oferecer uma variedade de opções de pagamento, incluindo cartão de crédito, débito e boleto bancário. | 2 | Must-haves | Importante e Urgente |
+| Ana está lendo um livro e chega a um trecho que ela não entende. | O aplicativo deve permitir aos usuários fazer perguntas aos autores de livros. | Média |  Desenvolvedores: Gustavo e Kevin| Em desenvolvimento | Usabilidade: O aplicativo deve fornecer uma maneira fácil e intuitiva para os usuários fazerem perguntas aos autores. | Acessibilidade: O aplicativo deve ser acessível a usuários com deficiências visuais ou auditivas. | 3 | Should-haves |  Importante e Não Urgente |
+| Pedro está escrevendo um livro e quer compartilhar um trecho com seus amigos. | O aplicativo deve permitir aos usuários compartilhar trechos de livros com seus amigos. | Baixa | Desenvolvedores: David e Maxwell | Em desenvolvimento | Recursos: O aplicativo deve permitir aos usuários compartilhar trechos de livros de diferentes formatos, incluindo texto, áudio e vídeo. | Compatibilidade: O aplicativo deve ser compatível com os principais aplicativos de mensagens instantâneas. | 4 | Should-haves |  Não Importante e Não Urgente |
+| Maria está participando de uma discussão sobre um livro que ela leu. | O aplicativo deve permitir aos usuários participar de discussões sobre livros. | Alta | Desenvolvedores: Gustavo e Kevin | Em desenvolvimento | Segurança: O aplicativo deve proteger os usuários contra discurso de ódio e outros conteúdos nocivos. | Suporte: O aplicativo deve fornecer suporte para usuários que precisem de ajuda para participar de discussões. | 5 |  Must-haves  |  Importante e Urgente |
+| Paulo está procurando um clube do livro para participar. | O aplicativo deve permitir aos usuários encontrar clubes do livro na sua área. | Baixa | Desenvolvedores: David e Maxwell | Em desenvolvimento | Recursos: O aplicativo deve permitir aos usuários filtrar clubes do livro por critérios, como gênero, idioma e localização. | Atualização: O aplicativo deve ser atualizado regularmente com informações sobre novos clubes do livro. | 6 |  Should-haves  |  Não Importante e Não Urgente |
 
 # Gerenciamento de Projeto
 
