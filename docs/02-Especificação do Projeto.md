@@ -24,21 +24,91 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+# Histórias de usuário para aplicativo de venda e discussões de livros
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+## História 1
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+*Nome:* Mariana
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+*Idade:* 25 anos
+
+*Localização:* São Paulo, Brasil
+
+*Ação:* Mariana está procurando um novo livro para ler. Ela abre o aplicativo de livros e navega pelas categorias. Ela encontra um livro que parece interessante e lê a resenha. Ela decide comprar o livro e o adiciona ao seu carrinho. Ela paga pelo livro e o aplicativo começa a baixar o livro em seu dispositivo.
+
+*Objetivo:* Mariana quer encontrar um novo livro para ler.
+
+*Solução:* O aplicativo de livros fornece uma interface fácil de usar que permite aos usuários navegar pelas categorias e encontrar livros que sejam do seu interesse. O aplicativo também permite aos usuários ler resenhas de livros antes de comprar.
+
+## História 2
+
+*Nome:* João
+
+*Idade:* 35 anos
+
+*Localização:* Rio de Janeiro, Brasil
+
+*Ação:* João está procurando um livro para dar de presente para sua filha. Ele abre o aplicativo de livros e navega pelas categorias. Ele encontra um livro que ele acha que sua filha vai gostar e lê a resenha. Ele decide comprar o livro e o adiciona ao seu carrinho. Ele paga pelo livro e o aplicativo começa a enviar o livro para a casa de sua filha.
+
+*Objetivo:* João quer comprar um livro para dar de presente para sua filha.
+
+*Solução:* O aplicativo de livros permite aos usuários comprar livros para serem enviados para qualquer endereço. Isso facilita para os usuários comprarem livros como presentes.
+
+## História 3
+
+*Nome:* Ana
+
+*Idade:* 20 anos
+
+*Localização:* Belo Horizonte, Brasil
+
+*Ação:* Ana está lendo um livro e chega a um trecho que ela não entende. Ela abre o aplicativo de livros e clica no botão "Pergunte ao autor". Ela faz uma pergunta sobre o trecho e o autor responde dentro de algumas horas.
+
+*Objetivo:* Ana quer entender um trecho de um livro que ela está lendo.
+
+*Solução:* O aplicativo de livros permite aos usuários fazer perguntas aos autores de livros. Isso é útil para os usuários que precisam de ajuda para entender um trecho de um livro.
+
+## História 4
+
+*Nome:* Pedro
+
+*Idade:* 40 anos
+
+*Localização:* Brasília, Brasil
+
+*Ação:* Pedro está escrevendo um livro e quer compartilhar um trecho com seus amigos. Ele abre o aplicativo de livros e clica no botão "Compartilhar". Ele seleciona seus amigos e o aplicativo envia o trecho para eles.
+
+*Objetivo:* Pedro quer compartilhar um trecho de um livro que ele está escrevendo com seus amigos.
+
+*Solução:* O aplicativo de livros permite aos usuários compartilhar trechos de livros com seus amigos. Isso é útil para os autores que querem obter feedback sobre seu trabalho.
+
+## História 5
+
+*Nome:* Maria
+
+*Idade:* 50 anos
+
+*Localização:* Curitiba, Brasil
+
+*Ação:* Maria está participando de uma discussão sobre um livro que ela leu. Ela faz uma pergunta sobre o livro e outros usuários da discussão respondem. Maria aprende muito com a discussão e se sente mais conectada com os outros usuários.
+
+*Objetivo:* Maria quer participar de uma discussão sobre um livro que ela leu.
+
+*Solução:* O aplicativo de livros permite aos usuários participar de discussões sobre livros. Isso é útil para os usuários que querem discutir livros com outras pessoas que compartilham seus interesses.
+
+## História 6
+
+*Nome:* Paulo
+
+*Idade:* 60 anos
+
+*Localização:* Porto Alegre, Brasil
+
+*Ação:* Paulo está procurando um clube do livro para participar. Ele abre o aplicativo de livros e pesquisa por clubes do livro na sua área. Ele encontra um clube do livro que parece interessante e se inscreve.
+
+*Objetivo:* Paulo quer participar de um clube do livro.
+
+*Solução:* O aplicativo de livros permite aos usuários encontrar clubes do livro na sua área. Isso é útil para os usuários que querem encontrar outras pessoas para ler e discutir livros.
 
 ## Modelagem do Processo de Negócio 
 
