@@ -116,10 +116,10 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
     <tbody>
         <tr>
             <td rowspan=3 align="center"> <img src="/docs/img/Mariana.png" width=80% height=80% >
-            <td colspan=2> <h1>Mariana</h1> </td> 
+            <td colspan=2> <h1 align="center">Mariana</h1> </td> 
         </tr>
         <tr>
-            <td rowspan=2><h4>Idade:</h4> 25 anos  <h4>Ocupação:</h4> Jornalista</td>
+            <td rowspan=2 cellspacing="5"><h4>Idade:</h4> 25 anos  <h4>Ocupação:</h4> Jornalista</td>
             <td><strong>Desafios:</strong><br> 
               <ul>
                 <li>Mariana quer expandir seus horizontes literários; <br>
