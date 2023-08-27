@@ -115,7 +115,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Mariana.png" width=80% height=80%>
+            <td rowspan=3> <img src="/docs/img/Mariana.png" width=50% height=50%>
             <td colspan=2> <h1>Mariana</h1> </td> 
         </tr>
         <tr>
