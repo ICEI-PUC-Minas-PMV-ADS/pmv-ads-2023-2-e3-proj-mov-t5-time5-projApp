@@ -112,6 +112,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Personas
 
+<!-- Perfil 1-->
 <table>
     <tbody>
         <tr>
@@ -122,10 +123,11 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
             <td rowspan=2><h4>Idade:</h4> 25 anos  <h4>Ocupação:</h4> Jornalista</td>
             <td><strong>Desafios:</strong><br> 
               <ul>
-                <li>Mariana quer expandir seus horizontes literários; <br>
+                <li>
+                    Mariana procura um livro para ler, ela quer expandir seus horizontes literários; <br>
                     começar a ler mais livros de não ficção, <br>
                     mas não sabe por onde começar.<br>
-                  </li>
+                </li>
               </ul>
             </td>
         </tr>
@@ -226,6 +228,9 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
         </tr>
     </tbody>
 </table>
+
+<!-- Perfil 2-->
+
 <table>
     <tbody>
         <tr>
@@ -237,7 +242,8 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 </td>
             <td><strong>Desafios:</strong><br> 
               <ul>
-                <li>João está interessado em comprar livros para a filha <br>
+                <li>
+                    João está interessado em comprar livros para a filha <br>
                     além de explorar literatura clássica, mas a linguagem mais complexa é um obstáculo para ele. <br>
                 </li>
               </ul>
@@ -340,6 +346,481 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
     </tbody>
 </table>
 
+<!-- Perfil 3-->
+
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=3 align="center"> <img src="/docs/img/Joao.png" width=80% height=80% >
+            <td colspan=2> <h1 align="center">Ana</h1> </td> 
+        </tr>
+        <tr>
+            <td rowspan=2><h4>Idade:</h4> 20 anos  <h4>Ocupação:</h4> Estudante de Artes Visuais
+</td>
+            <td><strong>Desafios:</strong><br> 
+              <ul>
+                <li>
+                    Ana Ana está lendo um livro e chega a um trecho que ela não entende. <br>
+                    Ela quer se envolver mais com a literatura clássica, <br>
+                    mas muitos dos títulos parecem distantes de sua realidade.<br>
+                </li>
+              </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Hobbies:</strong> 
+              <ul>
+                <li> Além de ler e criar arte, Ana gosta de visitar galerias de arte e participar de grupos de discussão.</li>         
+              </ul>
+            </td>
+        </tr>
+  	    <tr>
+            <td colspan="3">
+              <strong>Hábitos:</strong><br> 
+              <ul>
+                <li> Ana gosta de explorar uma ampla gama de gêneros, incluindo poesia e graphic novels, para encontrar inspiração para seus próprios projetos artísticos.</li>                 
+              </ul>
+              </td></tr>
+       <tr>
+            <td colspan="3">
+                <strong>Frustrações:</strong> 
+                    <ul>
+                        <li> Ela muitas vezes luta para encontrar livros que abordem questões sociais importantes de maneira sensível.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Livros Preferidos:</strong> 
+                    <ul>
+                        <li>Livros preferidos:* Poesia contemporânea e graphic novels, como "Persépolis".</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Estilo de vida:</strong> 
+                    <ul>
+                        <li>Ela tem um estilo de vida boêmio e criativo, muitas vezes encontrando inspiração em experiências do dia a dia.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Hábitos de compra:</strong> 
+                    <ul>
+                        <li>Ana prefere comprar livros físicos de livrarias independentes ou sebos.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Quais mídias prefere:</strong> 
+                    <ul>
+                        <li>Ela adora o Tumblr e o Pinterest para descobrir novas obras de arte e literatura.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Quem a influência:</strong> 
+                    <ul>
+                        <li>Influenciadores culturais e artistas em redes sociais têm grande impacto em suas escolhas de leitura.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Tecnologias:</strong> 
+                    <ul>
+                        <li> Ana usa um smartphone para acessar redes sociais e pesquisar informações.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Busca de informação:</strong> 
+                    <ul>
+                        <li>  Ela pesquisa em blogs de arte e literatura, além de seguir artistas no Tumblr para obter recomendações de livros.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Critérios de decisão:</strong> 
+                    <ul>
+                        <li>  A estética da capa, a originalidade do enredo e a relevância para suas experiências são fatores decisivos.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Jornada de compra:</strong> 
+                    <ul>
+                        <li>  Ana está no estágio de descoberta, explorando obras clássicas que abordem questões sociais de maneira acessível e relevante.</li>                        
+                    </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- Perfil 4-->
+
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=3 align="center"> <img src="/docs/img/Pedro.png" width=80% height=80% >
+            <td colspan=2> <h1 align="center">Pedro</h1> </td> 
+        </tr>
+        <tr>
+            <td rowspan=2><h4>Idade:</h4> 40 anos  <h4>Ocupação:</h4> Médico
+</td>
+            <td><strong>Desafios:</strong><br> 
+              <ul>
+                <li>
+                     Pedro está escrevendo um livro e quer compartilhar um trecho com seus amigos. <br>                     
+                     Quer reconectar com a ficção para relaxar e equilibrar sua vida.<br>
+                </li>
+              </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Hobbies:</strong> 
+              <ul>
+                <li> Além da medicina, ele gosta de jardinagem e pratica meditação regularmente.</li>         
+              </ul>
+            </td>
+        </tr>
+  	    <tr>
+            <td colspan="3">
+              <strong>Hábitos:</strong><br> 
+              <ul>
+                <li> Pedro é um leitor voraz de livros de não ficção, especialmente nas áreas de medicina e psicologia.</li>                 
+              </ul>
+              </td></tr>
+       <tr>
+            <td colspan="3">
+                <strong>Frustrações:</strong> 
+                    <ul>
+                        <li>  Ele tem dificuldade em encontrar tempo para a leitura de lazer devido às longas horas de trabalho.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Livros Preferidos:</strong> 
+                    <ul>
+                        <li>Livros de medicina e psicologia, como "O Corpo Fala".</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Estilo de vida:</strong> 
+                    <ul>
+                        <li>Seu trabalho consome a maior parte de seu tempo, mas ele está em busca de maneiras de ter um estilo de vida mais equilibrado.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Hábitos de compra:</strong> 
+                    <ul>
+                        <li>Pedro prefere comprar livros físicos em livrarias independentes.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Quais mídias prefere:</strong> 
+                    <ul>
+                        <li>Ele gosta de ler revistas científicas e acompanhar blogs sobre medicina e saúde.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Quem a influência:</strong> 
+                    <ul>
+                        <li>Suas escolhas de leitura são frequentemente influenciadas por recomendações de colegas médicos.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Tecnologias:</strong> 
+                    <ul>
+                        <li> Pedro usa um tablet para ler e-books e fica atualizado sobre avanços médicos através de aplicativos especializados.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Busca de informação:</strong> 
+                    <ul>
+                        <li>   Ele pesquisa em revistas científicas e blogs de saúde para se manter atualizado em sua área.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Critérios de decisão:</strong> 
+                    <ul>
+                        <li>  A relevância para sua prática médica, a credibilidade do autor e a qualidade da pesquisa são fatores importantes em sua decisão de compra.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Jornada de compra:</strong> 
+                    <ul>
+                        <li>  Pedro está no estágio de descoberta, buscando títulos de ficção que possam oferecer uma pausa relaxante em sua rotina intensa de trabalho e estudos médicos.</li>                        
+                    </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- Perfil 5-->
+
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=3 align="center"> <img src="/docs/img/Pedro.png" width=80% height=80% >
+            <td colspan=2> <h1 align="center">Pedro</h1> </td> 
+        </tr>
+        <tr>
+            <td rowspan=2>
+                <h4>Idade:</h4> 40 anos  
+                <h4>Ocupação:</h4> Empresária 
+            </td>
+            <td><strong>Desafios:</strong><br> 
+              <ul>
+                <li>
+                     Maria está participando de uma discussão sobre um livro que ela leu. <br>
+                     Ela faz uma pergunta sobre o livro e outros usuários da discussão respondida. <br>
+                     Maria aprende muito com a discussão e se sente mais conectada com os outros usuários. <br>
+                     Está interessada em explorar literatura contemporânea, mas muitas vezes acha difícil encontrar títulos que a motivam.<br>
+                </li>
+              </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Hobbies:</strong> 
+              <ul>
+                <li> Além de cuidar da sua loja, Maria gosta de restaurar móveis antigos e participar de eventos culturais.</li>         
+              </ul>
+            </td>
+        </tr>
+  	    <tr>
+            <td colspan="3">
+              <strong>Hábitos:</strong><br> 
+              <ul>
+                <li> Maria gosta de ler à noite, depois de um longo dia de trabalho na sua loja. Ela aprecia especialmente romances históricos que a transportam para diferentes épocas.</li>                 
+              </ul>
+              </td></tr>
+       <tr>
+            <td colspan="3">
+                <strong>Frustrações:</strong> 
+                    <ul>
+                        <li>  Ela se preocupa em perder a conexão com as novas tendências literárias e quer manter sua mente aberta a diferentes estilos.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Livros Preferidos:</strong> 
+                    <ul>
+                        <li>Romances históricos e clássicos, como "Orgulho e Preconceito".</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Estilo de vida:</strong> 
+                    <ul>
+                        <li>Ela mantém um estilo de vida agitado como empresária, mas encontra momentos de relaxamento na leitura.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Hábitos de compra:</strong> 
+                    <ul>
+                        <li>Maria gosta de comprar livros físicos em livrarias locais ou em feiras de antiguidades.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Quais mídias prefere:</strong> 
+                    <ul>
+                        <li>Ela lê artigos culturais em revistas impressas e acompanha programas de entrevistas na televisão.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Quem a influência:</strong> 
+                    <ul>
+                        <li> As recomendações de clientes e amigos que compartilham seu interesse por antiguidades frequentemente a influenciam.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Tecnologias:</strong> 
+                    <ul>
+                        <li> Maria possui um tablet para leitura de e-books, mas ainda prefere os livros impressos.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Busca de informação:</strong> 
+                    <ul>
+                        <li>   Ela busca recomendações de leitura em eventos culturais e conversa com amigos sobre os livros que estão lendo.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Critérios de decisão:</strong> 
+                    <ul>
+                        <li>  A ambientação histórica, a narrativa envolvente e a disponibilidade do livro em formato físico são fatores decisivos para ela.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Jornada de compra:</strong> 
+                    <ul>
+                        <li>  Maria está no estágio de consideração, procurando títulos contemporâneos que possam capturar sua atenção e proporcionar uma experiência envolvente de leitura.</li>                        
+                    </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- Perfil 6-->
+
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=3 align="center"> <img src="/docs/img/Paulo.png" width=80% height=80% >
+            <td colspan=2> <h1 align="center">Paulo</h1> </td> 
+        </tr>
+        <tr>
+            <td rowspan=2>
+                <h4>Idade:</h4> 60 anos  
+                <h4>Ocupação:</h4> Aposentado (era engenheiro civil)
+            </td>
+            <td><strong>Desafios:</strong><br> 
+              <ul>
+                <li>
+                      Paulo está procurando um clube do livro para participar, <br>
+                      quer também se manter atualizado com as novas tecnologias literárias, <br>
+                      mas às vezes se sente confuso com tantas opções. <br>
+                </li>
+              </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Hobbies:</strong> 
+              <ul>
+                <li> Além da leitura, ele adora jardinagem e gosta de assistir a programas educativos na televisão.</li>         
+              </ul>
+            </td>
+        </tr>
+  	    <tr>
+            <td colspan="3">
+              <strong>Hábitos:</strong><br> 
+              <ul>
+                <li> Paulo tem o hábito de ler principalmente durante as manhãs, desfrutando de um bom livro enquanto toma seu café.</li>                 
+              </ul>
+              </td></tr>
+       <tr>
+            <td colspan="3">
+                <strong>Frustrações:</strong> 
+                    <ul>
+                        <li>  Ele sente falta de interações sociais significativas desde sua aposentadoria e deseja encontrar maneiras de se conectar com pessoas que compartilham seus interesses.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Livros Preferidos:</strong> 
+                    <ul>
+                        <li>Paulo é fã de clássicos literários e também gosta de biografias de figuras históricas.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Estilo de vida:</strong> 
+                    <ul>
+                        <li>Sua aposentadoria lhe deu mais tempo para explorar seus hobbies e interesses, tornando suas manhãs tranquilas.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Hábitos de compra:</strong> 
+                    <ul>
+                        <li>Ele prefere comprar livros físicos em livrarias locais.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Quais mídias prefere:</strong> 
+                    <ul>
+                        <li>Paulo assiste a programas de entrevistas na televisão e lê jornais impressos para se manter informado.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Quem a influência:</strong> 
+                    <ul>
+                        <li>Ele confia nas recomendações de amigos e familiares para escolher novos livros.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Tecnologias:</strong> 
+                    <ul>
+                        <li> Paulo usa um tablet para ler e-books, mas ainda está se adaptando às tecnologias digitais.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Busca de informação:</strong> 
+                    <ul>
+                        <li> Ele costuma pedir indicações de livros a amigos próximos e procura recomendações em seções de livros de jornais.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Critérios de decisão:</strong> 
+                    <ul>
+                        <li>  A reputação do autor, a familiaridade com o tema e a disponibilidade em formato físico são importantes para suas escolhas.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Jornada de compra:</strong> 
+                    <ul>
+                        <li>  MPaulo está no estágio de pós-compra, compartilhando suas descobertas literárias com amigos e procurando clubes de leitura locais para se envolver socialmente.</li>                        
+                    </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Modelagem do Processo de Negócio 
 
