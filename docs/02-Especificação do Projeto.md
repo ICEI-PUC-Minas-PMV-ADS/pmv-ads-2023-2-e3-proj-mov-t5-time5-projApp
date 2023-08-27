@@ -119,7 +119,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
             <td colspan=2> <h1 align="center">Mariana</h1> </td> 
         </tr>
         <tr>
-            <td rowspan=2 widht="30px"><h4>Idade:</h4> 25 anos  <h4>Ocupação:</h4> Jornalista</td>
+            <td rowspan=2 widht="500px"><h4>Idade:</h4> 25 anos  <h4>Ocupação:</h4> Jornalista</td>
             <td><strong>Desafios:</strong><br> 
               <ul>
                 <li>Mariana quer expandir seus horizontes literários; <br>
