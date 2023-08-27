@@ -351,7 +351,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 <table>
     <tbody>
         <tr>
-            <td rowspan=3 align="center"> <img src="/docs/img/Joao.png" width=80% height=80% >
+            <td rowspan=3 align="center"> <img src="/docs/img/Ana.png" width=80% height=80% >
             <td colspan=2> <h1 align="center">Ana</h1> </td> 
         </tr>
         <tr>
@@ -479,7 +479,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
               <ul>
                 <li>
                      Pedro está escrevendo um livro e quer compartilhar um trecho com seus amigos. <br>                     
-                     Quer reconectar com a ficção para relaxar e equilibrar sua vida.<br>
+                     Quer também reconectar com a ficção para relaxar e equilibrar sua vida.<br>
                 </li>
               </ul>
             </td>
@@ -586,12 +586,12 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 <table>
     <tbody>
         <tr>
-            <td rowspan=3 align="center"> <img src="/docs/img/Pedro.png" width=80% height=80% >
-            <td colspan=2> <h1 align="center">Pedro</h1> </td> 
+            <td rowspan=3 align="center"> <img src="/docs/img/Maria.png" width=80% height=80% >
+            <td colspan=2> <h1 align="center">Maria</h1> </td> 
         </tr>
         <tr>
             <td rowspan=2>
-                <h4>Idade:</h4> 40 anos  
+                <h4>Idade:</h4> 50 anos  
                 <h4>Ocupação:</h4> Empresária 
             </td>
             <td><strong>Desafios:</strong><br> 
