@@ -271,45 +271,34 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O aplicativo deve proteger os dados dos usuários contra acesso não autorizado. | ALTA | 
+|RF-002| O aplicativo deve oferecer uma variedade de opções de pagamento, incluindo cartão de crédito, débito e boleto bancário.   | ALTA |
+|RF-003| O aplicativo deve ser acessível a usuários com deficiências visuais ou auditivas.   | MÉDIA |
+|RF-004| O aplicativo deve ser compatível com os principais aplicativos de mensagens instantâneas.   | BAIXA |
+|RF-005| O aplicativo deve fornecer suporte para usuários que precisem de ajuda para participar de discussões.   | ALTA |
+|RF-006| O aplicativo deve ser atualizado regularmente com informações sobre novos clubes do livro.   | BAIXA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| O aplicativo deve ser executado em dispositivos móveis com sistemas operacionais Android e iOS. | ALTA | 
+|RNF-002| O aplicativo deve carregar os livros rapidamente, mesmo em dispositivos móveis com recursos limitados. |  ALTA | 
+|RNF-003| O aplicativo deve fornecer uma maneira fácil e intuitiva para os usuários fazerem perguntas aos autores. | MÉDIA | 
+|RNF-004| O aplicativo deve permitir aos usuários compartilhar trechos de livros de diferentes formatos, incluindo texto, áudio e vídeo. |  BAIXA | 
+|RNF-005| O aplicativo deve proteger os usuários contra discurso de ódio e outros conteúdos nocivos. | ALTA | 
+|RNF-006| O aplicativo deve permitir aos usuários filtrar clubes do livro por critérios, como gênero, idioma e localização. |  BAIXA | 
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|01| O projeto deverá ser concluído até a data 20/11/2023 |
+|02| Devrão ser utilizadas React Native e JSON server para construir a aplicação |
+|03| O cronograma de tarefas e sprints deverão ser elaborados no Azure Devops |
+|03| As sprints deverão ser entregues no Github |
 
 ## Diagrama de Casos de Uso
 
