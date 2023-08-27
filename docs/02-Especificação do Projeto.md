@@ -892,7 +892,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 ## Diagrama de Casos de Uso
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t5-time5-projApp/assets/114623537/917685a9-ea95-46e7-b76a-1107b63a2675)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t5-time5-projApp/assets/114623537/431f8030-b077-4d23-af75-3daa6a13783e)
+
+
 
 # Matriz de Rastreabilidade
 
