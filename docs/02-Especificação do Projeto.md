@@ -119,7 +119,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
             <td colspan=2> <h1 align="center">Mariana</h1> </td> 
         </tr>
         <tr>
-            <td rowspan=2 widht="500px"><h4>Idade:</h4> 25 anos  <h4>Ocupação:</h4> Jornalista</td>
+            <td rowspan=2><h4>Idade:</h4> 25 anos  <h4>Ocupação:</h4> Jornalista</td>
             <td><strong>Desafios:</strong><br> 
               <ul>
                 <li>Mariana quer expandir seus horizontes literários; <br>
@@ -221,6 +221,119 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
                 <strong>Jornada de compra:</strong> 
                     <ul>
                         <li>  Ela está no estágio de consideração, buscando informações sobre livros que se encaixam no gênero de não ficção para ampliar seus interesses literários.</li>                        
+                    </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=3 align="center"> <img src="/docs/img/Joao.png" width=80% height=80% >
+            <td colspan=2> <h1 align="center">João</h1> </td> 
+        </tr>
+        <tr>
+            <td rowspan=2><h4>Idade:</h4> 35 anos  <h4>Ocupação:</h4> Engenheiro de Software
+</td>
+            <td><strong>Desafios:</strong><br> 
+              <ul>
+                <li>João está interessado em comprar livros para a filha <br>
+                    além de explorar literatura clássica, mas a linguagem mais complexa é um obstáculo para ele. <br>
+                </li>
+              </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Hobbies:</strong> 
+              <ul>
+                <li>Além de ler, João é um entusiasta da programação e adora jogos de tabuleiro.</li>         
+              </ul>
+            </td>
+        </tr>
+  	    <tr>
+            <td colspan="3">
+              <strong>Hábitos:</strong><br> 
+              <ul>
+                <li>João é um leitor ávido de ficção científica e fantasia. Ele gosta de ler durante suas viagens diárias de trem para o trabalho.</li>                 
+              </ul>
+              </td></tr>
+       <tr>
+            <td colspan="3">
+                <strong>Frustrações:</strong> 
+                    <ul>
+                        <li> Às vezes, ele encontra dificuldade em descobrir novos autores dentro de seus gêneros favoritos.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Livros Preferidos:</strong> 
+                    <ul>
+                        <li>Ficção científica e fantasia, como a série "Duna".</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Estilo de vida:</strong> 
+                    <ul>
+                        <li>Ele mantém um equilíbrio saudável entre trabalho, leitura e suas paixões por tecnologia.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Hábitos de compra:</strong> 
+                    <ul>
+                        <li>João gosta de comprar livros físicos em livrarias independentes.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Quais mídias prefere:</strong> 
+                    <ul>
+                        <li>Ele frequenta fóruns online de discussão sobre ficção científica e fantasia.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Quem a influência:</strong> 
+                    <ul>
+                        <li>As recomendações de autores de ficção científica influenciam suas escolhas de leitura.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Tecnologias:</strong> 
+                    <ul>
+                        <li> João usa um tablet para ler e-books e acessar fóruns online.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Busca de informação:</strong> 
+                    <ul>
+                        <li>  Ele pesquisa em fóruns e blogs especializados para encontrar novos livros dentro de seus gêneros favoritos.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Critérios de decisão:</strong> 
+                    <ul>
+                        <li>  A capa, a sinopse e a reputação do autor são fatores importantes em sua decisão de compra.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Jornada de compra:</strong> 
+                    <ul>
+                        <li>  João está no estágio de decisão, pesquisando ativamente novos livros de literatura clássica que possam atender aos seus interesses.</li>                        
                     </ul>
             </td>
         </tr>
