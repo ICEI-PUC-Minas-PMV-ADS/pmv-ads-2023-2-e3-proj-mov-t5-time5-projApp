@@ -112,11 +112,11 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Personas
 
-<!-- Perfil 1-->
+<!-- Perfil 1 Mariana-->
 <table>
     <tbody>
         <tr>
-            <td rowspan=3 align="center"> <img src="/docs/img/Mariana.png" width=80% height=80% >
+            <td rowspan=3 align="center"> <img src="/docs/img/Mariana.png" width=70% height=70% >
             <td colspan=2> <h1 align="center">Mariana</h1> </td> 
         </tr>
         <tr>
@@ -229,7 +229,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
     </tbody>
 </table>
 
-<!-- Perfil 2-->
+<!-- Perfil 2 Joao-->
 
 <table>
     <tbody>
@@ -346,7 +346,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
     </tbody>
 </table>
 
-<!-- Perfil 3-->
+<!-- Perfil 3 Ana-->
 
 <table>
     <tbody>
@@ -464,12 +464,12 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
     </tbody>
 </table>
 
-<!-- Perfil 4-->
+<!-- Perfil 4 Pedro-->
 
 <table>
     <tbody>
         <tr>
-            <td rowspan=3 align="center"> <img src="/docs/img/Pedro.png" width=80% height=80% >
+            <td rowspan=3 align="center"> <img src="/docs/img/Pedro.png" width=60% height=60% >
             <td colspan=2> <h1 align="center">Pedro</h1> </td> 
         </tr>
         <tr>
@@ -581,7 +581,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
     </tbody>
 </table>
 
-<!-- Perfil 5-->
+<!-- Perfil 5 Maria-->
 
 <table>
     <tbody>
@@ -702,7 +702,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
     </tbody>
 </table>
 
-<!-- Perfil 6-->
+<!-- Perfil 6 Paulo -->
 
 <table>
     <tbody>
