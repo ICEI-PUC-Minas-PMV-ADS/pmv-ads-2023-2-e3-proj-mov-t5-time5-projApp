@@ -115,18 +115,37 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Mariana.png" width=80% height=80%> <br> Foto de Edward Cisnero em Unsplash </td>
-            <td colspan=2> <h1>Flávia Amaral</h1> </td> 
+            <td rowspan=3> <img src="/docs/img/Mariana.png" width=80% height=80%>
+            <td colspan=2> <h1>Mariana</h1> </td> 
         </tr>
         <tr>
-            <td rowspan=2><h4>Idade:</h4> 52 <br> <h4>Ocupação:</h4> Advogada, é sócia de um escritório que atua na área de direto tributário. Tem dois cachorros da raça Yorkshire. <br>Por causa da alta demanda de serviço no escritório tem pouco tempo para outras coisas importantes em sua vida.</td>
-            <td><strong>Objetivo:</strong><br> <ul><li>Cuidar da saúde e bem-estar<br> de seus animais.</li></ul></td>
+            <td rowspan=2><h4>Idade:</h4> 25 anos <br> <h4>Ocupação:</h4> Jornalista</td>
+            <td><strong>Desafios:</strong><br> 
+              <ul>
+                <li>Mariana quer expandir seus horizontes literários; <br>
+                    começar a ler mais livros de não ficção, <br>
+                    mas não sabe por onde começar.<br>
+                  </li>
+              </ul>
+            </td>
         </tr>
         <tr>
-            <td><strong>Hobbies:</strong> <ul><li>Academia;</li> <li>Fazer ginastica;</li></li></ul></td>
+            <td><strong>Hobbies:</strong> 
+              <ul>
+                <li>Além da leitura, ela também gosta de cozinhar pratos novos <br>
+                viajar sempre que possível.</li> <br>                 
+              </ul>
+            </td>
         </tr>
   	    <tr>
-            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>Prefere resolver todas as suas necessidades por meio de smartphone, no momento que puder;</li> <li>Poder realizar o agendamento de consultas e banho/tosa para meus pets em qualquer horário do dia;</li> <li>Quando embarcar ter a segurança de saber que o Atestado de Boa Saúde dos meus animais e as informações sobre as vacinas estarão disponíveis no site da clínica.</li></ul></td></tr>
+            <td colspan="3">
+              <strong>Hábitos:</strong><br> 
+              <ul>
+                <li>Mariana gosta de passar suas noites lendo romances contemporâneos. Ela também costuma frequentar grupos online de leitura para discutir os livros que está lendo.</li> 
+                <li>Poder realizar o agendamento de consultas e banho/tosa para meus pets em qualquer horário do dia;</li> 
+                <li>Quando embarcar ter a segurança de saber que o Atestado de Boa Saúde dos meus animais e as informações sobre as vacinas estarão disponíveis no site da clínica.</li>
+              </ul>
+              </td></tr>
        <tr>
             <td colspan="3"><strong>Frustrações:</strong> <ul><li>Semanalmente precisa ligar para a clínica veterinária e solicitar horário de banho para seus dois animais.</li><li> Não conseguir lembrar do calendário de vacinação dos pets.</li></td></tr>
     </tbody>
@@ -136,8 +155,8 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/João.png" width=80% height=80%> <br> Foto de Bruno Rodrigues em Unsplash </td>
-            <td colspan=2> <h1>Dr. Carlos Gomes</h1> </td> 
+            <td rowspan=3> <img src="/docs/img/Joao.png" width=80% height=80%> 
+            <td colspan=2> <h1>João</h1> </td> 
         </tr>
         <tr>
             <td rowspan=2><h4>Idade:</h4> 42 <br> <h4>Ocupação:</h4> Um dos médicos veterinários sócio da PetCare. Também faz atendimento clínico.</td>
@@ -156,8 +175,8 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Ana.png" width=80% height=80%> <br> Foto de Andrei Damian em Unsplash </td>
-            <td colspan=2> <h1>Gilberto Costa</h1> </td> 
+            <td rowspan=3> <img src="/docs/img/Ana.png" width=80% height=80%>
+            <td colspan=2> <h1>Ana</h1> </td> 
         </tr>
         <tr>
             <td rowspan=2><h4>Idade:</h4> 25 <br> <h4>Ocupação:</h4> Funcionário que atua na recepção da PetCare.</td>
@@ -176,8 +195,8 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Pedro.png" width=80% height=80%> <br> Foto de Irene Strong em Unsplash </td>
-            <td colspan=2> <h1>Bruno Carrasco</h1> </td> 
+            <td rowspan=3> <img src="/docs/img/Pedro.png" width=80% height=80%> 
+            <td colspan=2> <h1>Pedro</h1> </td> 
         </tr>
         <tr>
             <td rowspan=2><h4>Idade:</h4> 28 <br> <h4>Ocupação:</h4> Funcionário responsável pelo serviço de banho e tosa da PetCare.</td>
@@ -196,8 +215,8 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Maria.png" width=80% height=80%> <br> Foto de Irene Strong em Unsplash </td>
-            <td colspan=2> <h1>Bruno Carrasco</h1> </td> 
+            <td rowspan=3> <img src="/docs/img/Maria.png" width=80% height=80%> 
+            <td colspan=2> <h1>Maria</h1> </td> 
         </tr>
         <tr>
             <td rowspan=2><h4>Idade:</h4> 28 <br> <h4>Ocupação:</h4> Funcionário responsável pelo serviço de banho e tosa da PetCare.</td>
@@ -216,8 +235,8 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Paulo.png" width=80% height=80%> <br> Foto de Irene Strong em Unsplash </td>
-            <td colspan=2> <h1>Bruno Carrasco</h1> </td> 
+            <td rowspan=3> <img src="/docs/img/Paulo.png" width=80% height=80%> 
+            <td colspan=2> <h1>Paulo</h1> </td> 
         </tr>
         <tr>
             <td rowspan=2><h4>Idade:</h4> 28 <br> <h4>Ocupação:</h4> Funcionário responsável pelo serviço de banho e tosa da PetCare.</td>
