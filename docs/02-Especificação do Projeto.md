@@ -115,7 +115,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Mariana.png" width=50% height=50%>
+            <td rowspan=3> <img src="/docs/img/Mariana.png" width=80% height=80%>
             <td colspan=2> <h1>Mariana</h1> </td> 
         </tr>
         <tr>
@@ -147,115 +147,17 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
               </ul>
               </td></tr>
        <tr>
-            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Semanalmente precisa ligar para a clínica veterinária e solicitar horário de banho para seus dois animais.</li><li> Não conseguir lembrar do calendário de vacinação dos pets.</li></td></tr>
+            <td colspan="3">
+                <strong>Frustrações:</strong> 
+                    <ul>
+                        <li>Às vezes, ela se sente sobrecarregada com seu trabalho como jornalista e luta para encontrar tempo suficiente para ler.</li>                        
+                    </ul>
+            </td>
+        </tr>
     </tbody>
 </table>
 
-<!--
-<table>
-    <tbody>
-        <tr>
-<<<<<<< HEAD
-            <td rowspan=3> <img src="/docs/img/Joao.png" width=80% height=80%> 
-            <td colspan=2> <h1>João</h1> </td> 
-=======
-            <td rowspan=3> <img src="/docs/img/João.png" width=80% height=80%> <br> Foto de Bruno Rodrigues em Unsplash> </td>
-            <td colspan=2> <h1>Dr. Carlos Gomes</h1> </td> 
->>>>>>> 235c96c6e4abf7342f591b31fb6d3998128b8eef
-        </tr>
-        <tr>
-            <td rowspan=2><h4>Idade:</h4> 42 <br> <h4>Ocupação:</h4> Um dos médicos veterinários sócio da PetCare. Também faz atendimento clínico.</td>
-            <td><strong>Objetivo:</strong><br> <ul><li>Realizar bons atendimentos médicos;</li><li>Aumentar o número de clientes da clínica;</li></ul></td>
-        </tr>
-        <tr>
-            <td><strong>Hobbies:</strong> <ul><li>Academia;</li> <li>Yoga;</li></li></ul></td>
-        </tr>
-  	    <tr>
-            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>A qualidade prestada pelo sistema de atendimento vai aumentar a fidelização dos clientes na clínica; </li></ul></td></tr>
-        <tr>
-            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Muitas vezes quando atendo um animal não tenho informações disponíveis sobre o histórico de saúde dele, nem dos atendimentos anteriores recebidos por ele aqui na clínica.</li></td></tr>
-    </tbody>
-</table>
 
-<table>
-    <tbody>
-        <tr>
-            <td rowspan=3> <img src="/docs/img/Ana.png" width=80% height=80%>
-            <td colspan=2> <h1>Ana</h1> </td> 
-        </tr>
-        <tr>
-            <td rowspan=2><h4>Idade:</h4> 25 <br> <h4>Ocupação:</h4> Funcionário que atua na recepção da PetCare.</td>
-            <td><strong>Objetivo:</strong><br> <ul><li>Organizar melhor os serviços realizados na PetCare.</li></ul></td>
-        </tr>
-        <tr>
-            <td><strong>Hobbies:</strong> <ul><li>Academia;</li> <li>Games;</li></li></ul></td>
-        </tr>
-  	    <tr>
-            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>São muitos os atendimentos diários, listas atualizadas para os atendimentos médicos e serviços de banho/tosa iriam deixar o ambiente mais organizado.  </li></ul></td></tr>
-        <tr>
-            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Pessoas reclamando de atraso no atendimento de seus animais, tanto para consultas quanto para banho e tosa.</li></td></tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
-        <tr>
-            <td rowspan=3> <img src="/docs/img/Pedro.png" width=80% height=80%> 
-            <td colspan=2> <h1>Pedro</h1> </td> 
-        </tr>
-        <tr>
-            <td rowspan=2><h4>Idade:</h4> 28 <br> <h4>Ocupação:</h4> Funcionário responsável pelo serviço de banho e tosa da PetCare.</td>
-            <td><strong>Objetivo:</strong><br> <ul><li>Otimizar os serviços de banho e tosa da PetCare.</li></ul></td>
-        </tr>
-        <tr>
-            <td><strong>Hobbies:</strong> <ul><li>Academia;</li> <li>Pesca;</li></li></ul></td>
-        </tr>
-  	    <tr>
-            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>Sente necessidade de uma lista com os horários e serviços de cada pet. </li></ul></td></tr>
-        <tr>
-            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Tem dificuldades de saber quais cães serão tosados, sempre tem que ir à recepção para perguntar ao Gilberto. </li></td></tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
-        <tr>
-            <td rowspan=3> <img src="/docs/img/Maria.png" width=80% height=80%> 
-            <td colspan=2> <h1>Maria</h1> </td> 
-        </tr>
-        <tr>
-            <td rowspan=2><h4>Idade:</h4> 28 <br> <h4>Ocupação:</h4> Funcionário responsável pelo serviço de banho e tosa da PetCare.</td>
-            <td><strong>Objetivo:</strong><br> <ul><li>Otimizar os serviços de banho e tosa da PetCare.</li></ul></td>
-        </tr>
-        <tr>
-            <td><strong>Hobbies:</strong> <ul><li>Academia;</li> <li>Pesca;</li></li></ul></td>
-        </tr>
-  	    <tr>
-            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>Sente necessidade de uma lista com os horários e serviços de cada pet. </li></ul></td></tr>
-        <tr>
-            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Tem dificuldades de saber quais cães serão tosados, sempre tem que ir à recepção para perguntar ao Gilberto. </li></td></tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
-        <tr>
-            <td rowspan=3> <img src="/docs/img/Paulo.png" width=80% height=80%> 
-            <td colspan=2> <h1>Paulo</h1> </td> 
-        </tr>
-        <tr>
-            <td rowspan=2><h4>Idade:</h4> 28 <br> <h4>Ocupação:</h4> Funcionário responsável pelo serviço de banho e tosa da PetCare.</td>
-            <td><strong>Objetivo:</strong><br> <ul><li>Otimizar os serviços de banho e tosa da PetCare.</li></ul></td>
-        </tr>
-        <tr>
-            <td><strong>Hobbies:</strong> <ul><li>Academia;</li> <li>Pesca;</li></li></ul></td>
-        </tr>
-  	    <tr>
-            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>Sente necessidade de uma lista com os horários e serviços de cada pet. </li></ul></td></tr>
-        <tr>
-            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Tem dificuldades de saber quais cães serão tosados, sempre tem que ir à recepção para perguntar ao Gilberto. </li></td></tr>
-    </tbody>
-</table> -->
 ## Modelagem do Processo de Negócio 
 
 ### Análise da Situação Atual
