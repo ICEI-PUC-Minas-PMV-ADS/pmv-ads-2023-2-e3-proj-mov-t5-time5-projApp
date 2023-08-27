@@ -151,7 +151,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
     </tbody>
 </table>
 
-
+<!--
 <table>
     <tbody>
         <tr>
@@ -250,7 +250,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
         <tr>
             <td colspan="3"><strong>Frustrações:</strong> <ul><li>Tem dificuldades de saber quais cães serão tosados, sempre tem que ir à recepção para perguntar ao Gilberto. </li></td></tr>
     </tbody>
-</table>
+</table> -->
 ## Modelagem do Processo de Negócio 
 
 ### Análise da Situação Atual
