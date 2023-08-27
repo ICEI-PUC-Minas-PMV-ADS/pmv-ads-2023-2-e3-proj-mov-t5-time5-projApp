@@ -115,7 +115,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Mariana.png" width=80% height=80%>
+            <td rowspan=2> <img src="/docs/img/Mariana.png" width=80% height=80%>
             <td colspan=2> <h1>Mariana</h1> </td> 
         </tr>
         <tr>
@@ -141,9 +141,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
             <td colspan="3">
               <strong>Hábitos:</strong><br> 
               <ul>
-                <li>Mariana gosta de passar suas noites lendo romances contemporâneos. Ela também costuma frequentar grupos online de leitura para discutir os livros que está lendo.</li> 
-                <li>Poder realizar o agendamento de consultas e banho/tosa para meus pets em qualquer horário do dia;</li> 
-                <li>Quando embarcar ter a segurança de saber que o Atestado de Boa Saúde dos meus animais e as informações sobre as vacinas estarão disponíveis no site da clínica.</li>
+                <li>Mariana gosta de passar suas noites lendo romances contemporâneos. Ela também costuma frequentar grupos online de leitura para discutir os livros que está lendo.</li>                 
               </ul>
               </td></tr>
        <tr>
