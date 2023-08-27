@@ -115,7 +115,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Mariana.png" width=80% height=80%>
+            <td rowspan=3 align="center"> <img src="/docs/img/Mariana.png" width=80% height=80% >
             <td colspan=2> <h1>Mariana</h1> </td> 
         </tr>
         <tr>
@@ -149,6 +149,78 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
                 <strong>Frustrações:</strong> 
                     <ul>
                         <li>Às vezes, ela se sente sobrecarregada com seu trabalho como jornalista e luta para encontrar tempo suficiente para ler.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Livros Preferidos:</strong> 
+                    <ul>
+                        <li>Romances contemporâneos, como "Me Chame Pelo Seu Nome".</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Estilo de vida:</strong> 
+                    <ul>
+                        <li>Mariana tem um estilo de vida movimentado devido ao seu trabalho, mas sempre tenta encaixar tempo para a leitura em sua rotina.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Hábitos de compra:</strong> 
+                    <ul>
+                        <li>Ela tende a comprar livros online, preferindo a conveniência dos e-books.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Quais mídias prefere:</strong> 
+                    <ul>
+                        <li>Mariana é ativa no Instagram, onde segue várias contas de resenhas literárias.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Quem a influência:</strong> 
+                    <ul>
+                        <li>Ela costuma ser influenciada pelas recomendações de leitura de seus colegas jornalistas e por influenciadores literários online.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Tecnologias:</strong> 
+                    <ul>
+                        <li> Mariana usa um e-reader para ler seus e-books.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Busca de informação:</strong> 
+                    <ul>
+                        <li>  Ela busca resenhas e recomendações de livros em blogs literários e redes sociais.</li>                        
+                    </ul>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="3">
+                <strong>Critérios de decisão:</strong> 
+                    <ul>
+                        <li>  Mariana decide comprar um livro com base nas resenhas positivas, na sinopse interessante e na disponibilidade do título em formato digital.</li>                        
+                    </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <strong>Jornada de compra:</strong> 
+                    <ul>
+                        <li>  Ela está no estágio de consideração, buscando informações sobre livros que se encaixam no gênero de não ficção para ampliar seus interesses literários.</li>                        
                     </ul>
             </td>
         </tr>
