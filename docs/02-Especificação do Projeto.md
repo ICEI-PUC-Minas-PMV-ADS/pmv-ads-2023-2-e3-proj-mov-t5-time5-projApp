@@ -888,7 +888,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 |01| O projeto deverá ser concluído até a data 20/11/2023 |
 |02| Devrão ser utilizadas React Native e JSON server para construir a aplicação |
 |03| O cronograma de tarefas e sprints deverão ser elaborados no Azure Devops |
-|03| As sprints deverão ser entregues no Github |
+|04| As sprints deverão ser entregues no Github |
 
 ## Diagrama de Casos de Uso
 
