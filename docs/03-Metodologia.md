@@ -48,10 +48,10 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 A equipe emprega abordagens ágeis e adotou o Scrum como a estrutura principal para estabelecer o método de desenvolvimento. <br>
 A estrutura organizacional da equipe é a seguinte: <br>
 <br>
-Scrum Master:Gustavo Lemos dos Santos<br>
-Product Owner: Gustavo Lemos dos Santos<br>
-Equipe de Desenvolvimento: David Gomes, Gustavo Lemos dos Santos, Kevin Issamu Muramoto e Maxwell de Souza Pedroza<br>
-Equipe de Design: Gustavo Lemos dos Santos e David Gomes<br>
+Scrum Master:<b>Gustavo Lemos dos Santos</b><br>
+Product Owner: <b>Gustavo Lemos dos Santos</b><br>
+Equipe de Desenvolvimento: <b>David Gomes, Gustavo Lemos dos Santos, Kevin Issamu Muramoto e Maxwell de Souza Pedroza</b><br>
+Equipe de Design: <b>Gustavo Lemos dos Santos e David Gomes</b><br>
 
 
 ### Processo
@@ -59,11 +59,11 @@ Equipe de Design: Gustavo Lemos dos Santos e David Gomes<br>
 A equipe emprega o Scrum como estrutura principal e faz uso do quadro Kanban para monitorar o progresso do backlog do produto, o backlog das sprints e o status das tarefas permitidas para a elaboração da solução.<br>
 A configuração do quadro é a seguinte:<br>
 
-New: Apresenta todas as tarefas globais que devem ser realizadas ao longo do projeto.<br>
+<b>New:</b> Apresenta todas as tarefas globais que devem ser realizadas ao longo do projeto.<br>
 
-In Progress: Exibe as tarefas atribuídas a membros da equipe que já começaram a ser desenvolvidas.<br>
+<b>In Progress:</b> Exibe as tarefas atribuídas a membros da equipe que já começaram a ser desenvolvidas.<br>
 
-Done: Mostra as tarefas que já foram finalizadas e enviadas para produção, nessa fase ocorre o encerramento das tarefas do backlog do produto relacionadas à tarefa correspondente.<br>
+<b>Done: </b>Mostra as tarefas que já foram finalizadas e enviadas para produção, nessa fase ocorre o encerramento das tarefas do backlog do produto relacionadas à tarefa correspondente.<br>
 Abaixo está a representação visual do quadro <a href="https://dev.azure.com/1281703/Eixo%203%20-%20App%20Mobile/_boards/board/t/Eixo%203%20-%20App%20Mobile%20Team/Features">Kanban</a> utilizado pela equipe:<br>
 
 <img src="/docs/img/Card.jpg">
@@ -72,12 +72,12 @@ Abaixo está a representação visual do quadro <a href="https://dev.azure.com/1
 
 ### Ferramentas
 
-No âmbito do projeto, foram adotadas as seguintes soluções:<br>
-Ambiente de edição de código: Visual Studio<br>
-Plataformas de comunicação: Microsoft Teams e WhatsApp.<br>
-Instrumentos para a construção de interfaces e designs: Figma.<br>
-Recursos para a elaboração de representações gráficas: Draw.io<br>
-Ferramenta para o controle de prazos e agendamentos: Azure Devops<br>
+No âmbito do projeto, foram adotadas as seguintes soluções:<br> <br>
+Ambiente de edição de código: <b>Visual Studio</b><br>
+Plataformas de comunicação: <b>Microsoft Teams e WhatsApp.</b><br>
+Instrumentos para a construção de interfaces e designs: <b>Figma.</b><br>
+Recursos para a elaboração de representações gráficas: <b>Draw.io</b><br>
+Ferramenta para o controle de prazos e agendamentos: <b>Azure Devops</b><br>
 
 A escolha do ambiente de edição de código se deve à sua integração com o sistema de controle de versão e à sua alta compatibilidade com a maioria das tecnologias empregadas ao longo do desenvolvimento do projeto.<br>
 
