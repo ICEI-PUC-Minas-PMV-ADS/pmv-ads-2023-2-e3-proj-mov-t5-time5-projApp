@@ -66,7 +66,7 @@ In Progress: Exibe as tarefas atribuídas a membros da equipe que já começaram
 Done: Mostra as tarefas que já foram finalizadas e enviadas para produção, nessa fase ocorre o encerramento das tarefas do backlog do produto relacionadas à tarefa correspondente.<br>
 Abaixo está a representação visual do quadro <a href="https://dev.azure.com/1281703/Eixo%203%20-%20App%20Mobile/_boards/board/t/Eixo%203%20-%20App%20Mobile%20Team/Features">Kanban</a> utilizado pela equipe:<br>
 
-<img href="/docs/img/Card.jpg">
+<img src="/docs/img/Card.jpg">
 
  
 
