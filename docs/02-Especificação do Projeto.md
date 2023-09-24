@@ -826,40 +826,40 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ### Análise da Situação Atual
 
-Analisando o contexo do app, ainda é preciso revisar processos e testar para que obtenhamos resultado na composição do mesmo, os processos sao muito elaborados e extensos, sendo assim é possivel muitas alterações no decorrer de desenvolvimento do sistema, levando em considerações que o mesmo depende de processos exernos, como banco e meio de envio e recebimento dos livros.
+Analisando o contexo do app, ainda é preciso revisar processos e testar para obtermos resultados eficientes na composição do mesmo. Os processos são muito elaborados e extensos, sendo assim é possivel muitas alterações, levando em considerações que o mesmo depende de processos exernos, como banco e meio de envio e recebimento dos livros.
 
 ### Descrição Geral da Proposta
 
-A modelagem segue com 7 processos individuais que juntos compõem o app Rabbit Book, a ideia é comercializar livros através de um sistema, sendo assim, temos os processos de inclusão, leitura de dados que cotem a  compra e venda dos livros adicionados ao sistema.
-No app é possivel pesquisar  cadastrar pesquisar comprar e vender. Segue abaixo os processos:
+A modelagem segue com 7 processos individuais que possivelmente podem sofrer alterações e adição de instancias.  Juntos esses processos compõem o app Rabbit Book, comercializar livros através de um sistema, sendo assim, temos os processos de inclusão, leitura de dados que cotem a  compra e venda dos livros adicionados ao sistema.
+No app é possivel pesquisar  cadastrar  comprar e vender. Segue abaixo os processos:
 
 ### Processo 1 – Cadastro de Usuários
 
-![Processo 1](img/processo1.png)
+![Processo 1](docs/img/processo1.png)
 
 ### Processo 2 – Login dos Usuários
 
-![Processo 2](img/processo2.png)
+![Processo 2](docs/img/processo2.png)
 
 ### Processo 3 – Cadastro de Livros (Venda)
 
-![Processo 3](img/processo3.png)
+![Processo 3](docs/img/processo3.png)
 
 ### Processo 4 – Pesquisa de Livros (Compra)
 
-![Processo 4](img/processo4.png)
+![Processo 4](docs/img/processo4.png)
 
 ### Processo 5 – Compra de Livros
 
-![Processo 5](img/processo5.png)
+![Processo 5](docs/img/processo5.png)
 
 ### Processo 6 – Venda e envio de Livros
 
-![Processo 6](img/processo6.png)
+![Processo 6](docs/img/processo6.png)
 
 ### Processo 7 – Validação de Chegada de Livros
 
-![Processo 7](img/processo7.png)
+![Processo 7](docs/img/processo7.png)
 
 ## Indicadores de Desempenho
 
