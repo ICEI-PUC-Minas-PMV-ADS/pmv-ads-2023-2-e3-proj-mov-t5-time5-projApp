@@ -839,27 +839,27 @@ No app é possivel pesquisar  cadastrar  comprar e vender. Segue abaixo os proce
 
 ### Processo 2 – Login dos Usuários
 
-![Processo 2](docs/img/processo2.png)
+![Processo 2](/docs/img/Processo2.png)
 
 ### Processo 3 – Cadastro de Livros (Venda)
 
-![Processo 3](docs/img/processo3.png)
+![Processo 3](/docs/img/Processo3.png)
 
 ### Processo 4 – Pesquisa de Livros (Compra)
 
-![Processo 4](docs/img/processo4.png)
+![Processo 4](/docs/img/Processo4.png)
 
 ### Processo 5 – Compra de Livros
 
-![Processo 5](docs/img/processo5.png)
+![Processo 5](/docs/img/Processo5.png)
 
 ### Processo 6 – Venda e envio de Livros
 
-![Processo 6](docs/img/processo6.png)
+![Processo 6](/docs/img/Processo6.png)
 
 ### Processo 7 – Validação de Chegada de Livros
 
-![Processo 7](docs/img/processo7.png)
+![Processo 7](/docs/img/Processo7.png)
 
 ## Indicadores de Desempenho
 
