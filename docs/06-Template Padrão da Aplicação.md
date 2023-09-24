@@ -17,6 +17,7 @@ O template padrão de um projeto React Native contém os seguintes arquivos e pa
 
 O template padrão de um projeto React Native também contém um arquivo de configuração para o gerenciador de pacotes, que é usado para instalar as dependências do projeto. O arquivo de configuração do gerenciador de pacotes é chamado de `package.json` e contém as seguintes propriedades:
 
+
 * *name:* O nome do projeto.
 * *version:* A versão do projeto.
 * *description:* Uma descrição do projeto.
