@@ -1,19 +1,21 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+| Cenário | Ação | Resultado esperado | Resultado obtido | Observações |
+|---|---|---|---|---|
+| Registro de usuário | Criar um novo usuário com um email válido | O usuário deve ser criado com sucesso | O usuário foi criado com sucesso | |
+| Login | Fazer login com um usuário existente | O usuário deve ser logado com sucesso | O usuário foi logado com sucesso | |
+| Clubes de livros | Pesquisar por um clube de livros existente | O clube de livros deve ser encontrado | O clube de livros foi encontrado | |
+| Clubes de livros | Participar de um clube de livros | O usuário deve ser adicionado ao clube de livros | O usuário foi adicionado ao clube de livros | |
+| Clubes de livros | Visualizar um clube de livros | O usuário deve visualizar as informações do clube de livros | O usuário visualizou as informações do clube de livros | |
+| Clubes de livros | Configurar notificações para um clube de livros | As notificações devem ser configuradas com sucesso | As notificações foram configuradas com sucesso | |
+| Clubes de livros | Deixar um clube de livros | O usuário deve ser removido do clube de livros | O usuário foi removido do clube de livros | |
+| Vendas de livros | Pesquisar por um livro existente a venda | O livro deve ser encontrado | O livro foi encontrado | |
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
+**Observações:**
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+* Este roteiro de testes é apenas um exemplo básico e pode ser personalizado de acordo com as necessidades específicas do aplicativo.
+* Os resultados esperados devem ser definidos com base nos requisitos funcionais do aplicativo.
+* Os resultados obtidos devem ser verificados cuidadosamente para garantir que o aplicativo esteja funcionando conforme o esperado.
+
+A realização de testes abrangentes é essencial para garantir a qualidade de um aplicativo.
