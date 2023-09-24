@@ -45,7 +45,9 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-A equipe emprega abordagens ágeis e adotou o Scrum como a estrutura principal para estabelecer o método de desenvolvimento. A estrutura organizacional da equipe é a seguinte: <br>
+A equipe emprega abordagens ágeis e adotou o Scrum como a estrutura principal para estabelecer o método de desenvolvimento. <br>
+A estrutura organizacional da equipe é a seguinte: <br>
+<br>
 Scrum Master:Gustavo Lemos dos Santos<br>
 Product Owner: Gustavo Lemos dos Santos<br>
 Equipe de Desenvolvimento: David Gomes, Gustavo Lemos dos Santos, Kevin Issamu Muramoto e Maxwell de Souza Pedroza<br>
