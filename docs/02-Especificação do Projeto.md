@@ -835,7 +835,7 @@ No app é possivel pesquisar  cadastrar  comprar e vender. Segue abaixo os proce
 
 ### Processo 1 – Cadastro de Usuários
 
-![Processo 1](docs/img/processo1.png)
+![Processo 1](/docs/img/processo1.png)
 
 ### Processo 2 – Login dos Usuários
 
