@@ -1,23 +1,23 @@
-# TÍTULO DO PROJETO
+# RabbitBook
 
-`CURSO`
+`Análise e Dsenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto - Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`3º Semestre 2023`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Um aplicativo com foco principal na leitura que proporciona a experiência de compra, venda, troca e doação de e-books. Além disso, os usuários poderão discutir sobre uma obra de seu interesse ou descobrir novos e-books por meio das comunidades de leitores.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* David Gomes Chaves Andrade
+* Gustavo Lemos dos Santos
+* Kevin Issamu Muramoto
+* Maxwell De Souza Pedroza
 
 ## Orientador
 
-* Nome completo do professor 1
+* Mateus Curcino de Lima
 
 ## Instruções de utilização
 
