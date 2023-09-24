@@ -45,43 +45,44 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe emprega abordagens ágeis e adotou o Scrum como a estrutura principal para estabelecer o método de desenvolvimento. A estrutura organizacional da equipe é a seguinte:
+Scrum Master:Gustavo Lemos dos Santos
+Product Owner: Gustavo Lemos dos Santos
+Equipe de Desenvolvimento: David Gomes, Gustavo Lemos dos Santos, Kevin Issamu Muramoto e Maxwell de Souza Pedroza
+Equipe de Design: Gustavo Lemos dos Santos e David Gomes
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+Processo
+A equipe emprega o Scrum como estrutura principal e faz uso do quadro Kanban para monitorar o progresso do backlog do produto, o backlog das sprints e o status das tarefas permitidas para a elaboração da solução.
+A configuração do quadro é a seguinte:
+
+New: Apresenta todas as tarefas globais que devem ser realizadas ao longo do projeto.
+
+In Progress: Exibe as tarefas atribuídas a membros da equipe que já começaram a ser desenvolvidas.
+
+Done: Mostra as tarefas que já foram finalizadas e enviadas para produção, nessa fase ocorre o encerramento das tarefas do backlog do produto relacionadas à tarefa correspondente.
+Abaixo está a representação visual do quadro <a href="https://dev.azure.com/1281703/Eixo%203%20-%20App%20Mobile/_boards/board/t/Eixo%203%20-%20App%20Mobile%20Team/Features">Kanban</a> utilizado pela equipe:
+
+<img href="/doc/img/card.jpg">
+
  
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+No âmbito do projeto, foram adotadas as seguintes soluções:
+Ambiente de edição de código: Visual Studio
+Plataformas de comunicação: Microsoft Teams e WhatsApp.
+Instrumentos para a construção de interfaces e designs: Figma.
+Recursos para a elaboração de representações gráficas: Draw.io
+Ferramenta para o controle de prazos e agendamentos: Azure Devops
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+A escolha do ambiente de edição de código se deve à sua integração com o sistema de controle de versão e à sua alta compatibilidade com a maioria das tecnologias empregadas ao longo do desenvolvimento do projeto.
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+As plataformas de comunicação selecionadas são conhecidas pela sua simplicidade de uso, permitindo que a equipe mantenha uma comunicação eficiente e ágil.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+Quanto à criação de interfaces e designs, optamos pelo Figma devido às suas robustas funcionalidades, que viabilizam a criação de layouts visuais, responsivos, e à sua fácil integração no processo de desenvolvimento.
+
+Por fim, para a elaboração de diagramas, contamos com a draw.io para uma representação precisa das necessidades da nossa solução.
+
