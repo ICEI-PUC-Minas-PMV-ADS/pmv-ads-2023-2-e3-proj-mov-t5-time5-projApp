@@ -6,10 +6,9 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+Aqui colocaremos a descrição de cada funcionalidade com base no seu funcinamento, explicando a entrega da programação técnica, o que se pode dizer atualmente em tempo da etapa 2 é que o desenvolvimento se baseia em 4 tipos de telas principais no qual foram desenvolvidos os wireframes :
+
+1- Tela de login/cadastro de usuário no app sendo o nome da tela mencionado autodescritivo;
+2- Tela de Home onde ficarão as postagens de venda, novos clubes de livros entre outros temas relevantes;
+3- Tela de chats  no app sendo o nome da tela mencionado autodescritivo;
+4- Tela de Perfil de usuários com informações descritas nos wireframes.
