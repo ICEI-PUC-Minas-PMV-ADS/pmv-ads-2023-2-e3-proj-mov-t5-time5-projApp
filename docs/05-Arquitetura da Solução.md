@@ -31,12 +31,7 @@ Controle de Versão: Git
 
 Explique como a hospedagem e o lançamento da plataforma foi feita.
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+A hospedagem será feita através do serviço de cloud azure em que os estudantes da PUC Minas tem acesso. O recursos necessários ficarão todos alocados em um grupo de serviço em que todos os membros terão acesso de administração para release de pipeline CI(Integração Contínua) com git e CD(Deployment Contínuo) com cloud azure em recurso de realease super administrado.
 
 ## Qualidade de Software
 
