@@ -8,7 +8,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 Aqui colocaremos a descrição de cada funcionalidade com base no seu funcinamento, explicando a entrega da programação técnica, o que se pode dizer atualmente em tempo da etapa 2 é que o desenvolvimento se baseia em 4 tipos de telas principais no qual foram desenvolvidos os wireframes :
 
-1- Tela de login/cadastro de usuário no app sendo o nome da tela mencionado autodescritivo;
-2- Tela de Home onde ficarão as postagens de venda, novos clubes de livros entre outros temas relevantes;
-3- Tela de chats  no app sendo o nome da tela mencionado autodescritivo;
-4- Tela de Perfil de usuários com informações descritas nos wireframes.
+* 1- Tela de login/cadastro de usuário no app sendo o nome da tela mencionado autodescritivo;
+* 2- Tela de Home onde ficarão as postagens de venda, novos clubes de livros entre outros temas relevantes;
+* 3- Tela de chats  no app sendo o nome da tela mencionado autodescritivo;
+* 4- Tela de Perfil de usuários com informações descritas nos wireframes.
