@@ -826,23 +826,40 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Analisando o contexo do app, ainda é preciso revisar processos e testar para obtermos resultados eficientes na composição do mesmo. Os processos são muito elaborados e extensos, sendo assim é possivel muitas alterações, levando em considerações que o mesmo depende de processos exernos, como banco e meio de envio e recebimento dos livros.
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+A modelagem segue com 7 processos individuais que possivelmente podem sofrer alterações e adição de instancias.  Juntos esses processos compõem o app Rabbit Book, comercializar livros através de um sistema, sendo assim, temos os processos de inclusão, leitura de dados que cotem a  compra e venda dos livros adicionados ao sistema.
+No app é possivel pesquisar  cadastrar  comprar e vender. Segue abaixo os processos:
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Cadastro de Usuários
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+![Processo 1](/docs/img/Processo1.png)
 
-![Processo 1](img/02-bpmn-proc1.png)
+### Processo 2 – Login dos Usuários
 
-### Processo 2 – NOME DO PROCESSO
+![Processo 2](/docs/img/Processo2.png)
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+### Processo 3 – Cadastro de Livros (Venda)
 
-![Processo 2](img/02-bpmn-proc2.png)
+![Processo 3](/docs/img/Processo3.png)
+
+### Processo 4 – Pesquisa de Livros (Compra)
+
+![Processo 4](/docs/img/Processo4.png)
+
+### Processo 5 – Compra de Livros
+
+![Processo 5](/docs/img/Processo5.png)
+
+### Processo 6 – Venda e envio de Livros
+
+![Processo 6](/docs/img/Processo6.png)
+
+### Processo 7 – Validação de Chegada de Livros
+
+![Processo 7](/docs/img/Processo7.png)
 
 ## Indicadores de Desempenho
 
