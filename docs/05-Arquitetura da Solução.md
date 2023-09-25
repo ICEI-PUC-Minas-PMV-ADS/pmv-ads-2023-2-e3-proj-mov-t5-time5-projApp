@@ -57,12 +57,12 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 As características de qualidade de produto de software que melhor se adequam ao projeto são:
 
 > - Funcionalidade
-> - > -	Segurança de acesso
-> -	> - Interoperabilidade
-> - > -	Acuracia
-> -	Adequação
+    > -	Segurança de acesso
+    > - Interoperabilidade
+    > -	Acuracia
+    > -	Adequação
 > - Portabilidade
-> - > -	Adaptabilidade
+    > -	Adaptabilidade
 
 |Caracteristica de qualidade     | Subcaracterística de qualidade  |Métricas de avaliação |
 |-------|-------------------------|----|
