@@ -1,43 +1,81 @@
-import React from 'react'
-import {View, Text, StyleSheet, TextInput, Pressable, TouchableOpacity, Alert} from 'react-native'
+import React, { useState } from 'react'
+import { View, Text, StyleSheet, TextInput, Pressable, TouchableOpacity, Alert } from 'react-native'
+import UsuarioService from '../Services/UsuarioService'
 
-const Login = ({navigation}) => {
+const Login = ({ navigation }) => {
 
-exibirAlerta = () => {
-  Alert.alert("RabbitBook","Usuário Logado")
-}
+  const handlePress = () => {
+    navigation.navigate('cadastro');
+  };
 
-return (
+  const [email, setEmail] = useState('');
+  const [senha, setSenha] = useState('');
+  const [isVisible, setIsVisible] = useState(false);
+  const [errorMessage, setErrorMessage] = useState('');
 
-  <View style={styles.container}>
-  
-  <Text style={styles.header}> RabbitBook </Text>
+  const usuario = new UsuarioService();
 
-  <TextInput style={styles.login1} 
-    placeholder="Informe o Email"
-    keyboardAppearance= "email-address"
-    autoCapitalize= "none"
-    autoComplete= "email"
-  />
+  const logar = async (usuarioService) => {
+    if (!email || !senha) {
 
-  <TextInput style={styles.login2}
-    placeholder="Informe a Senha"
-    autoCapitalize= "none"
-    secureTextEntry
-  />
+      setErrorMessage("Preencha todos os dados")
+      setIsVisible(true)
 
-  <TouchableOpacity onPress={ () => {exibirAlerta ()}}  style={styles.botao1} >
-    <Text style={styles.botoes}>Entrar</Text>
-  </TouchableOpacity>
+    } else {
+
+      setIsVisible(false)
+      const usuarioExiste = await usuarioService.Exist(email, senha)
+
+      if (usuarioExiste) {
+        //implementar rota quando a tela inicial estiver pronta
+        console.log("logado")
+
+      } else {
+
+        setErrorMessage("E-mail ou senha incorretos")
+        setIsVisible(true)
+
+      }
+    }
+  }
+
+  return (
+
+    <View style={styles.container}>
+
+      <Text style={styles.header}> RabbitBook </Text>
+
+      <TextInput style={styles.login1}
+        placeholder="Informe o Email"
+        keyboardAppearance="email-address"
+        autoCapitalize="none"
+        autoComplete="email"
+        value={email}
+        onChangeText={(text) => setEmail(text)}
+      />
+
+      <TextInput style={styles.login2}
+        placeholder="Informe a Senha"
+        autoCapitalize="none"
+        secureTextEntry
+        value={senha}
+        onChangeText={(text) => setSenha(text)}
+      />
+
+      <TouchableOpacity onPress={() => logar(usuario)} style={styles.botao1} >
+        <Text style={styles.botoes}>Entrar</Text>
+      </TouchableOpacity>
 
 
-  <TouchableOpacity style={styles.botao2} >
-    <Text style={styles.botoes}>Criar Nova Conta</Text>
-  </TouchableOpacity>
+      <TouchableOpacity onPress={handlePress} style={styles.botao2} >
+        <Text style={styles.botoes}>Criar Nova Conta</Text>
+      </TouchableOpacity>
 
-  </View>
+      {isVisible && <Text style={styles.span}>{errorMessage}</Text>}
 
-);
+    </View>
+
+  );
 
 }
 
@@ -71,7 +109,7 @@ const styles = StyleSheet.create({
     textAlign: "center",
     color: "#9D9D9D",
     fontSize: 15,
-    },
+  },
   login2: {
     borderColor: "#1154FF",
     borderWidth: 1,
@@ -83,7 +121,7 @@ const styles = StyleSheet.create({
     textAlign: "center",
     color: "#9D9D9D",
     fontSize: 15,
-    },
+  },
   botao1: {
     backgroundColor: "#1154FF",
     width: '80%',
@@ -99,11 +137,12 @@ const styles = StyleSheet.create({
     marginTop: 100,
     borderRadius: 30,
     alignItems: 'center',
+  },
+  span: {
+    display: 'flex',
+    fontSize: 15,
+    color: '#FF0000',
   }
-
-
-
-
 })
 
 export default Login;

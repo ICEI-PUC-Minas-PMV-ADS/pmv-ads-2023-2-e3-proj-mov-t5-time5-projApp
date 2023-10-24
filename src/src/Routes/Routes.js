@@ -1,12 +1,11 @@
 import React from 'react';
-import {} from 'react-native';
 import { createStackNavigator } from '@react-navigation/stack';
 import Login from '../pages/Login.js';
-import CreateUser from '../pages/Cadastro.js';
+import Cadastro from '../pages/Cadastro.js';
 
 const Stack = createStackNavigator();
 
-export default function Routes() {
+const Routes = () => {
   return (
     <Stack.Navigator>
       <Stack.Screen
@@ -18,7 +17,7 @@ export default function Routes() {
       />
       <Stack.Screen
         name="cadastro"
-        component={CreateUser}
+        component={Cadastro}
         options={{
           title: '',
           headerTintColor: '#FFF',
@@ -28,3 +27,5 @@ export default function Routes() {
     </Stack.Navigator>
   );
 }
+
+export default Routes
