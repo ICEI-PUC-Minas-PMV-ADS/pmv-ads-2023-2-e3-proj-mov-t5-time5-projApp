@@ -28,6 +28,7 @@ const Login = ({ navigation }) => {
 
       if (usuarioExiste) {
         //implementar rota quando a tela inicial estiver pronta
+        navigation.navigate('index');
         console.log("logado")
 
       } else {

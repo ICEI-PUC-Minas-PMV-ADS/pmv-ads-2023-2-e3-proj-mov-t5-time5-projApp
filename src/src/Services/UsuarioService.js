@@ -1,11 +1,34 @@
 class UsuarioService {
-    url = 'http://localhost:3001/usuarios';
+
+    constructor() {
+        this.url = this.findUserUrl();
+    }
+
+    findUserUrl(){
+
+        const portDefault = 3000;
+        const portServerJSON = process.env.JSON_SERVER_PORT || portDefault;
+        return `http://localhost:${portServerJSON}/usuarios`;
+
+    }
 
     async Get(id) {
         try {
             const response = await fetch(`${this.url}/${id}`);
             if (!response.ok) {
                 throw new Error('Erro ao obter usuário');
+            }
+            return response.json();
+        } catch (error) {
+            console.log(error);
+        }
+    }
+
+    async GetAll() {
+        try {
+            const response = await fetch(`${this.url}`);
+            if (!response.ok) {
+                throw new Error('Erro ao obter usuários');
             }
             return response.json();
         } catch (error) {

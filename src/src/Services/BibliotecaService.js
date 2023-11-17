@@ -1,6 +1,17 @@
 
 class BibliotecaService {
-    url = 'http://localhost:3001/bibliotecas';
+    
+    constructor() {
+        this.url = this.findLibraryUrl();
+    }
+
+    findLibraryUrl(){
+
+        const portDefault = 3000;
+        const portServerJSON = process.env.JSON_SERVER_PORT || portDefault;
+        return `http://localhost:${portServerJSON}/bibliotecas`;
+
+    }
 
     async Get(usuarioId) {
 
