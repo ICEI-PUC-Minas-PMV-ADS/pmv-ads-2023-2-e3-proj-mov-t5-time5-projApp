@@ -1,80 +1,84 @@
 # Plano de Testes de Usabilidade
 
-Objetivo
+## Objetivo
 
 O objetivo deste plano de testes é garantir que o app de livros funcione conforme o esperado, incluindo as seguintes telas:
 
-Tela de login
-Tela de feed
-Tela de chat
-Tela de perfil
-Testes funcionais
+* Tela de login
+* Tela de feed
+* Tela de chat
+* Tela de perfil
 
-Tela	Teste
-Login
-| O usuário deve ser capaz de fazer login com um e-mail e senha válidos.
-| O usuário deve ser capaz de criar uma conta com um e-mail e senha válidos.
-| O usuário deve ser capaz de redefinir sua senha.
+## Testes funcionais
+
+| Tela | Teste |
+|---|---|
+| Login |
+| O usuário deve ser capaz de fazer login com um e-mail e senha válidos. |
+| O usuário deve ser capaz de criar uma conta com um e-mail e senha válidos. |
+| O usuário deve ser capaz de redefinir sua senha. |
 | Feed |
-| O usuário deve ser capaz de visualizar uma lista de livros.
-| O usuário deve ser capaz de clicar em um livro para obter mais informações.
-| O usuário deve ser capaz de adicionar um livro à sua lista de leitura.
+| O usuário deve ser capaz de visualizar uma lista de livros. |
+| O usuário deve ser capaz de clicar em um livro para obter mais informações. |
+| O usuário deve ser capaz de adicionar um livro à sua lista de leitura. |
 | Chat |
-| O usuário deve ser capaz de enviar e receber mensagens.
-| O usuário deve ser capaz de visualizar uma lista de conversas.
-| O usuário deve ser capaz de iniciar uma nova conversa.
+| O usuário deve ser capaz de enviar e receber mensagens. |
+| O usuário deve ser capaz de visualizar uma lista de conversas. |
+| O usuário deve ser capaz de iniciar uma nova conversa. |
 | Perfil |
-| O usuário deve ser capaz de visualizar suas informações pessoais.
-| O usuário deve ser capaz de editar suas informações pessoais.
+| O usuário deve ser capaz de visualizar suas informações pessoais. |
+| O usuário deve ser capaz de editar suas informações pessoais. |
 
-Testes de usabilidade
+## Testes de usabilidade
 
-Tela	Teste
-Login
-| O processo de login deve ser fácil de entender e seguir.
-| As mensagens de erro devem ser claras e informativas.
+| Tela | Teste |
+|---|---|
+| Login |
+| O processo de login deve ser fácil de entender e seguir. |
+| As mensagens de erro devem ser claras e informativas. |
 | Feed |
-| A lista de livros deve ser fácil de navegar.
-| Os detalhes do livro devem ser fáceis de ler e entender.
+| A lista de livros deve ser fácil de navegar. |
+| Os detalhes do livro devem ser fáceis de ler e entender. |
 | Chat |
-| O processo de envio de mensagens deve ser fácil de entender e seguir.
-| A lista de conversas deve ser fácil de navegar.
+| O processo de envio de mensagens deve ser fácil de entender e seguir. |
+| A lista de conversas deve ser fácil de navegar. |
 | Perfil |
-| As informações pessoais devem ser fáceis de visualizar e editar.
+| As informações pessoais devem ser fáceis de visualizar e editar. |
 
-Testes de desempenho
+## Testes de desempenho
 
-Tela	Teste
-Login
-| O processo de login deve ser rápido e responsivo.
+| Tela | Teste |
+|---|---|
+| Login |
+| O processo de login deve ser rápido e responsivo. |
 | Feed |
-| A lista de livros deve ser carregada rapidamente.
-| Os detalhes do livro devem ser renderizados rapidamente.
+| A lista de livros deve ser carregada rapidamente. |
+| Os detalhes do livro devem ser renderizados rapidamente. |
 | Chat |
-| As mensagens devem ser enviadas e recebidas rapidamente.
+| As mensagens devem ser enviadas e recebidas rapidamente. |
 | Perfil |
-| As informações pessoais devem ser carregadas rapidamente.
+| As informações pessoais devem ser carregadas rapidamente. |
 
-Testes de segurança
+## Testes de segurança
 
-Tela	Teste
-Login
-| As senhas devem ser armazenadas com segurança.
+| Tela | Teste |
+|---|---|
+| Login |
+| As senhas devem ser armazenadas com segurança. |
 | Feed |
-| As informações dos usuários devem ser protegidas de acesso não autorizado.
+| As informações dos usuários devem ser protegidas de acesso não autorizado. |
 | Chat |
-| As mensagens devem ser criptografadas.
+| As mensagens devem ser criptografadas. |
 | Perfil |
-| As informações pessoais devem ser protegidas de acesso não autorizado.
+| As informações pessoais devem ser protegidas de acesso não autorizado. |
 
-Testes adicionais
+## Testes adicionais
 
 Além dos testes funcionais, usabilidade, desempenho e segurança, também é importante considerar os seguintes testes adicionais:
 
-Testes de acessibilidade
-O aplicativo deve ser acessível a pessoas com deficiência.
-Testes de localização
-O aplicativo deve funcionar corretamente em diferentes regiões.
-Testes de idiomas
-O aplicativo deve ser traduzido para diferentes idiomas.
-Este plano de testes simplificado fornece uma base para garantir que o seu app de livros funcione conforme o esperado. Você pode adicionar ou remover testes conforme necessário, dependendo das necessidades específicas do seu aplicativo.
+* **Testes de acessibilidade**
+| O aplicativo deve ser acessível a pessoas com deficiência. |
+* **Testes de localização**
+| O aplicativo deve funcionar corretamente em diferentes regiões. |
+* **Testes de idiomas**
+| O aplicativo deve ser traduzido para diferentes idiomas. |
