@@ -11,7 +11,7 @@ O objetivo deste plano de testes é garantir que o app de livros funcione confor
 
 ## Testes funcionais
 
-| Tela | Teste |
+| Tela | OBS |
 |---|---|
 | **Login** |
 | O usuário deve ser capaz de fazer login com um e-mail e senha válidos. |
@@ -31,7 +31,7 @@ O objetivo deste plano de testes é garantir que o app de livros funcione confor
 
 ## Testes de usabilidade
 
-| Tela | Teste |
+| Tela | OBS |
 |---|---|
 | **Login** |
 | O processo de login deve ser fácil de entender e seguir. |
@@ -47,7 +47,7 @@ O objetivo deste plano de testes é garantir que o app de livros funcione confor
 
 ## Testes de desempenho
 
-| Tela | Teste |
+| Tela | OBS |
 |---|---|
 | **Login** |
 | O processo de login deve ser rápido e responsivo. |
@@ -61,7 +61,7 @@ O objetivo deste plano de testes é garantir que o app de livros funcione confor
 
 ## Testes de segurança
 
-| Tela | Teste |
+| Tela | OBS |
 |---|---|
 | **Login** |
 | As senhas devem ser armazenadas com segurança. |
@@ -75,14 +75,19 @@ O objetivo deste plano de testes é garantir que o app de livros funcione confor
 ## Testes adicionais
 
 * **Testes de acessibilidade**
+
 | Teste |
 |---|
 | O aplicativo deve ser acessível a pessoas com deficiência. |
+
 * **Testes de localização**
+
 | Teste |
 |---|
 | O aplicativo deve funcionar corretamente em diferentes regiões. |
+
 * **Testes de idiomas**
+
 | Teste |
 |---|
 | O aplicativo deve ser traduzido para diferentes idiomas. |
