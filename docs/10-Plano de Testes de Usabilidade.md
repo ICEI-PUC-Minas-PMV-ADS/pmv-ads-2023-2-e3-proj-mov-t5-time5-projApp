@@ -74,8 +74,6 @@ O objetivo deste plano de testes é garantir que o app de livros funcione confor
 
 ## Testes adicionais
 
-Além dos testes funcionais, usabilidade, desempenho e segurança, também é importante considerar os seguintes testes adicionais:
-
 * **Testes de acessibilidade**
 | O aplicativo deve ser acessível a pessoas com deficiência. |
 * **Testes de localização**
