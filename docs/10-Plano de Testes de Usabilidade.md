@@ -1,11 +1,80 @@
 # Plano de Testes de Usabilidade
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+Objetivo
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
+O objetivo deste plano de testes é garantir que o app de livros funcione conforme o esperado, incluindo as seguintes telas:
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+Tela de login
+Tela de feed
+Tela de chat
+Tela de perfil
+Testes funcionais
+
+Tela	Teste
+Login
+| O usuário deve ser capaz de fazer login com um e-mail e senha válidos.
+| O usuário deve ser capaz de criar uma conta com um e-mail e senha válidos.
+| O usuário deve ser capaz de redefinir sua senha.
+| Feed |
+| O usuário deve ser capaz de visualizar uma lista de livros.
+| O usuário deve ser capaz de clicar em um livro para obter mais informações.
+| O usuário deve ser capaz de adicionar um livro à sua lista de leitura.
+| Chat |
+| O usuário deve ser capaz de enviar e receber mensagens.
+| O usuário deve ser capaz de visualizar uma lista de conversas.
+| O usuário deve ser capaz de iniciar uma nova conversa.
+| Perfil |
+| O usuário deve ser capaz de visualizar suas informações pessoais.
+| O usuário deve ser capaz de editar suas informações pessoais.
+
+Testes de usabilidade
+
+Tela	Teste
+Login
+| O processo de login deve ser fácil de entender e seguir.
+| As mensagens de erro devem ser claras e informativas.
+| Feed |
+| A lista de livros deve ser fácil de navegar.
+| Os detalhes do livro devem ser fáceis de ler e entender.
+| Chat |
+| O processo de envio de mensagens deve ser fácil de entender e seguir.
+| A lista de conversas deve ser fácil de navegar.
+| Perfil |
+| As informações pessoais devem ser fáceis de visualizar e editar.
+
+Testes de desempenho
+
+Tela	Teste
+Login
+| O processo de login deve ser rápido e responsivo.
+| Feed |
+| A lista de livros deve ser carregada rapidamente.
+| Os detalhes do livro devem ser renderizados rapidamente.
+| Chat |
+| As mensagens devem ser enviadas e recebidas rapidamente.
+| Perfil |
+| As informações pessoais devem ser carregadas rapidamente.
+
+Testes de segurança
+
+Tela	Teste
+Login
+| As senhas devem ser armazenadas com segurança.
+| Feed |
+| As informações dos usuários devem ser protegidas de acesso não autorizado.
+| Chat |
+| As mensagens devem ser criptografadas.
+| Perfil |
+| As informações pessoais devem ser protegidas de acesso não autorizado.
+
+Testes adicionais
+
+Além dos testes funcionais, usabilidade, desempenho e segurança, também é importante considerar os seguintes testes adicionais:
+
+Testes de acessibilidade
+O aplicativo deve ser acessível a pessoas com deficiência.
+Testes de localização
+O aplicativo deve funcionar corretamente em diferentes regiões.
+Testes de idiomas
+O aplicativo deve ser traduzido para diferentes idiomas.
+Este plano de testes simplificado fornece uma base para garantir que o seu app de livros funcione conforme o esperado. Você pode adicionar ou remover testes conforme necessário, dependendo das necessidades específicas do seu aplicativo.
