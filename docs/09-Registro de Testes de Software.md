@@ -1,12 +1,58 @@
-# Registro de Testes de Software
+# Registro de Testes de Sofware
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+## Contexto
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+O presente registro de testes de software foi realizado na plataforma snack.expo.dev, uma ferramenta online que permite criar e testar aplicativos Expo sem precisar instalar o Expo CLI ou o Expo Go.
 
-## Avaliação
+![Alt text](image.png)
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+## Objetivos
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+O objetivo deste registro é documentar os resultados dos testes de software realizados no aplicativo **RabbitBook App**.
+
+
+## Recomendações
+
+As seguintes recomendações são feitas para melhorar ainda mais a software do aplicativo:
+
+* Adicionar a possibilidade de ajustar o tamanho da fonte e o contraste da tela.
+* Fornecer mais informações de ajuda e suporte aos usuários.
+
+## Anexos e evidências de teste
+
+* Login
+
+![Alt text](image-1.png)
+
+* Cadastro
+
+![Alt text](image-2.png)
+
+* Feed de publicações
+
+![Alt text](image-4.png)
+
+* Criação de Post
+
+![Alt text](image-7.png)
+
+* Chats e grupos
+
+![Alt text](image-5.png)
+
+* Chat 
+
+![Alt text](image-6.png)
+
+* Criação de grupos
+
+![Alt text](image-8.png)
+
+* Perfil
+
+![Alt text](image-3.png)
+
+* Comentários
+- Atendemos tudo que estava planejado no figma melhorando muito pontos no frontend
+- Algumas integrações planejadas via figma devem ser replanejadas
+- Talvez algumas integrações com a api aberta Biblioteca Google sejam interessantes

@@ -43,8 +43,9 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Código
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<li><a href="RabbitBook/src"> Código Fonte</a></li>
 
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+

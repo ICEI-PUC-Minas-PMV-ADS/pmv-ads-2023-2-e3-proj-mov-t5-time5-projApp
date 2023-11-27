@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
-import { View, Text, StyleSheet, TextInput, Pressable, TouchableOpacity, Alert } from 'react-native'
+import { View, Text, StyleSheet, TextInput, Pressable, TouchableOpacity } from 'react-native'
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import UsuarioService from '../Services/UsuarioService'
 
 const Login = ({ navigation }) => {
@@ -27,9 +28,14 @@ const Login = ({ navigation }) => {
       const usuarioExiste = await usuarioService.Exist(email, senha)
 
       if (usuarioExiste) {
-        //implementar rota quando a tela inicial estiver pronta
-        navigation.navigate('index');
-        console.log("logado")
+        
+        try {
+          await AsyncStorage.setItem('usuarioData', JSON.stringify(usuarioExiste[0]));
+        } catch (error) {
+          console.error('Erro ao salvar no AsyncStorage:', error);
+        }
+
+        navigation.navigate('home');
 
       } else {
 

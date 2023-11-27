@@ -83,7 +83,7 @@ class UsuarioService {
                 throw new Error('Erro ao verificar se o usuário existe');
             }
             const usuarios = await response.json();
-            return usuarios.length > 0;
+            return usuarios;
         } catch (error) {
             console.log(error);
             return false;
