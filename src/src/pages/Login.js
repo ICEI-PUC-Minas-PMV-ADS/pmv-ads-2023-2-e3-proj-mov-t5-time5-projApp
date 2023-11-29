@@ -28,7 +28,7 @@ const Login = ({ navigation }) => {
       const usuarioExiste = await usuarioService.Exist(email, senha)
 
       if (usuarioExiste) {
-        
+
         try {
           await AsyncStorage.setItem('usuarioData', JSON.stringify(usuarioExiste[0]));
         } catch (error) {
@@ -91,21 +91,21 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: 'center',
-    backgroundColor: "#2C2C2C",
+    backgroundColor: "#392620",
     justifyContent: "center"
   },
   header: {
     fontSize: 30,
-    color: "#1154FF",
+    color: "darkorange",
     marginBottom: 160,
   },
   botoes: {
     fontSize: 15,
-    color: "white",
+    color: "darkorange",
     textAlign: "center",
   },
   login1: {
-    borderColor: "#1154FF",
+    borderColor: "#fef5da",
     borderWidth: 1,
     borderRadius: 10,
     width: '80%',
@@ -114,11 +114,11 @@ const styles = StyleSheet.create({
     fontSize: 25,
     marginTop: 50,
     textAlign: "center",
-    color: "#9D9D9D",
+    color: "darkorange",
     fontSize: 15,
   },
   login2: {
-    borderColor: "#1154FF",
+    borderColor: "#fef5da",
     borderWidth: 1,
     borderRadius: 10,
     width: '80%',
@@ -126,11 +126,11 @@ const styles = StyleSheet.create({
     margin: 20,
     fontSize: 25,
     textAlign: "center",
-    color: "#9D9D9D",
+    color: "darkorange",
     fontSize: 15,
   },
   botao1: {
-    backgroundColor: "#1154FF",
+    backgroundColor: "#fef5da",
     width: '80%',
     padding: 10,
     margin: 30,
@@ -138,17 +138,12 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   botao2: {
-    backgroundColor: "#1154FF",
+    backgroundColor: "#fef5da",
     width: '80%',
     padding: 10,
     marginTop: 100,
     borderRadius: 30,
     alignItems: 'center',
-  },
-  span: {
-    display: 'flex',
-    fontSize: 15,
-    color: '#FF0000',
   }
 })
 
