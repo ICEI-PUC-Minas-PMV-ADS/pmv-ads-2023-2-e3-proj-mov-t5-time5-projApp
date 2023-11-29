@@ -1,12 +1,14 @@
 import React from 'react';
-import { StyleSheet, Text, View, Image, SafeAreaView, ScrollView} from 'react-native';
+import { StyleSheet, Text, View, Image, SafeAreaView} from 'react-native';
 import Icon from 'react-native-vector-icons/AntDesign';
 
 
 
 export default function Perfil({ route }) {
+  console.log(route.params.usuario)
+  const { usuario } = route.params.usuario;
 
-  const { usuario } = route.params;
+  console.log(usuario)
 
   return (
     

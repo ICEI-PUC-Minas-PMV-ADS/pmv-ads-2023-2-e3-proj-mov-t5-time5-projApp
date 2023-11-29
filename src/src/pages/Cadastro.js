@@ -27,8 +27,9 @@ const Cadastro = ({ navigation }) => {
     else {
       setIsVisible(false);
       const usuarioExiste = await usuarioService.Exist(email);
-      if (usuarioExiste) {
+      if (usuarioExiste.length > 0) {
         setErrorMessage('Usuário já cadastrado');
+        console.log(usuarioExiste)
         setIsVisible(true);
       }
       else {
@@ -42,6 +43,8 @@ const Cadastro = ({ navigation }) => {
           "usuarioId": novoUsuario.id,
           "livros": []
         })
+
+        navigation.navigate('home');
       }
     }
   };
@@ -99,21 +102,21 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: 'center',
-    backgroundColor: "#2C2C2C",
+    backgroundColor: "#392620",
     justifyContent: "center"
   },
   header: {
     fontSize: 30,
-    color: "#1154FF",
-    marginBottom: 0,
+    color: "darkorange",
+    marginBottom: 160,
   },
   botoes: {
     fontSize: 15,
-    color: "white",
+    color: "darkorange",
     textAlign: "center",
   },
   login1: {
-    borderColor: "#1154FF",
+    borderColor: "#fef5da",
     borderWidth: 1,
     borderRadius: 10,
     width: '80%',
@@ -122,11 +125,11 @@ const styles = StyleSheet.create({
     fontSize: 25,
     marginTop: 50,
     textAlign: "center",
-    color: "#9D9D9D",
+    color: "darkorange",
     fontSize: 15,
   },
   login2: {
-    borderColor: "#1154FF",
+    borderColor: "#fef5da",
     borderWidth: 1,
     borderRadius: 10,
     width: '80%',
@@ -134,26 +137,18 @@ const styles = StyleSheet.create({
     margin: 20,
     fontSize: 25,
     textAlign: "center",
-    color: "#9D9D9D",
+    color: "darkorange",
     fontSize: 15,
   },
   botao1: {
-    backgroundColor: "#1154FF",
+    backgroundColor: "#fef5da",
     width: '80%',
     padding: 10,
     margin: 30,
     borderRadius: 30,
     alignItems: 'center',
   },
-  span: {
-    display: 'flex',
-    fontSize: 15,
-    color: '#FF0000',
-  },
-  text: {
-    fontSize: 20,
-    color: '#9D9D9D',
-  }
+
 })
 
 export default Cadastro;

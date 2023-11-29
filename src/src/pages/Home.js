@@ -1,5 +1,6 @@
 import * as React from 'react';
-import { BottomNavigation, Text, StyleSheet } from 'react-native-paper';
+import { useNavigation } from '@react-navigation/native';
+import { BottomNavigation } from 'react-native-paper';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import Feed from './Feed';
@@ -21,12 +22,14 @@ const Home = () => {
     }
   };
 
+  const navigation = useNavigation();
+
   const navigateToPerfil = async () => {
     try {
 
       const usuarioData = await AsyncStorage.getItem('usuarioData');
       const usuario = JSON.parse(usuarioData);
-
+      console.log('Usuario ao navegar para perfil:', usuario);
       navigation.navigate('perfil', { usuario });
     } catch (error) {
       console.error('Erro ao obter dados do Local Storage:', error);
@@ -41,11 +44,7 @@ const Home = () => {
       barStyle={{ backgroundColor: '#fef5da'}}
       activeColor="darkorange"
       inactiveColor="gray"
-      onTabPress={({ route }) => {
-        if (route.key === 'perfil') {
-          navigateToPerfil();
-        }
-      }}
+      onTabPress={navigateToPerfil}
     />
   );
 };
