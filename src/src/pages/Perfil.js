@@ -5,10 +5,7 @@ import Icon from 'react-native-vector-icons/AntDesign';
 
 
 export default function Perfil({ route }) {
-  console.log(route.params.usuario)
-  const { usuario } = route.params.usuario;
-
-  console.log(usuario)
+  const { usuario } = route.params;
 
   return (
     

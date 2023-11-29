@@ -5,28 +5,31 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import Feed from './Feed';
 import Perfil from './Perfil';
+import EscolhaChat from './EscolhaChat';
 
 const Home = () => {
   const [index, setIndex] = React.useState(0);
   const [routes] = React.useState([
-    { key: 'feed', title: 'Feed', icon: 'home'},
-    { key: 'perfil', title: 'Perfil', icon: 'account'},
+    { key: 'feed', title: 'Feed', icon: 'home' },
+    { key: 'chat', title: 'Chat', icon: 'chat-outline' },
+    { key: 'perfil', title: 'Perfil', icon: 'account' },
   ]);
+
+  const navigation = useNavigation();
 
   const renderScene = ({ route }) => {
     switch (route.key) {
       case 'feed':
         return <Feed navigation={navigation} />;
       case 'perfil':
-        return <Perfil/>;
+        return <Perfil />;
+      case 'chat':
+        return <EscolhaChat />
     }
   };
 
-  const navigation = useNavigation();
-
   const navigateToPerfil = async () => {
     try {
-
       const usuarioData = await AsyncStorage.getItem('usuarioData');
       const usuario = JSON.parse(usuarioData);
       console.log('Usuario ao navegar para perfil:', usuario);
@@ -41,10 +44,14 @@ const Home = () => {
       navigationState={{ index, routes }}
       onIndexChange={setIndex}
       renderScene={renderScene}
-      barStyle={{ backgroundColor: '#fef5da'}}
+      barStyle={{ backgroundColor: '#fef5da' }}
       activeColor="darkorange"
       inactiveColor="gray"
-      onTabPress={navigateToPerfil}
+      onTabPress={({ route }) => {
+        if (route.key === 'perfil') {
+          navigateToPerfil;
+        }
+      }}
     />
   );
 };
