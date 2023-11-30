@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, Image, Pressable } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, Image, Pressable, ScrollView } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import PostagemService from '../Services/PostagemService';
 import UsuarioService from '../Services/UsuarioService';
@@ -20,7 +20,7 @@ const PostagemView = ({ postagem, nomeUsuario }) => {
   };
 
   return (
-    <View>
+    <View style={styles.postView}>
       <Pressable onPress={perfilUsuario}>
         <View style={styles.lado}>
 
@@ -118,25 +118,28 @@ const Feed = ({ navigation }) => {
   return (
 
     <View style={styles.container}>
+      <View style={styles.cabecalho}>
+        <Text style={styles.header}> RabbitBook </Text>
 
-      <Text style={styles.header}> RabbitBook </Text>
+        <TouchableOpacity onPress={createPost} style={styles.botao1} >
 
-      <TouchableOpacity onPress={createPost} style={styles.botao1} >
+          <Text style={styles.botoes}>Criar publicação</Text>
 
-        <Text style={styles.botoes}>Criar publicação</Text>
-
-      </TouchableOpacity>
-      <View style={{ flex: 1, padding: 16 }}>
-        {dadosApi.postagem &&
-          dadosApi.postagem.map((postagem) => (
-            <PostagemView
-              key={postagem.id}
-              postagem={postagem}
-              nomeUsuario={findUserName(postagem.autorId)}
-              navigation={navigation}
-            />
-          ))}
+        </TouchableOpacity>
       </View>
+      <ScrollView>
+        <View style={{ flex: 1, paddingTop: 6 }}>
+          {dadosApi.postagem &&
+            dadosApi.postagem.map((postagem) => (
+              <PostagemView
+                key={postagem.id}
+                postagem={postagem}
+                nomeUsuario={findUserName(postagem.autorId)}
+                navigation={navigation}
+              />
+            ))}
+        </View>
+      </ScrollView>
     </View>
   );
 
@@ -146,8 +149,28 @@ const styles = StyleSheet.create({
 
   container: {
     flex: 1,
+    justifyContent: "center",
+    backgroundColor: '#CFCFCF'
+  },
+  cabecalho: {
+    display: 'flex',
+    flexDirection: 'column',
     backgroundColor: "#392620",
-    justifyContent: "center"
+    shadowOffset: {width: 0, height: 4},
+    shadowOpacity: 0.4,
+    shadowRadius: 4,
+  },
+  postView: {
+    display: 'flex',
+    flexDirection: 'column',
+    alignSelf: 'center',
+    backgroundColor: 'rgba(139, 69, 19, 0.5)',
+    borderRadius: 20,
+    marginTop: 25,
+    width: '90%',
+    shadowOffset: {width: 2, height: 2},
+    shadowOpacity: 0.4,
+    shadowRadius: 4,
   },
   header: {
     textAlign: "center",
@@ -165,14 +188,15 @@ const styles = StyleSheet.create({
   botao1: {
     backgroundColor: "#fef5da",
     color: "darkorange",
-    width: '100%',
+    width: '70%',
     padding: 10,
+    alignSelf: 'center',
     marginBottom: 30,
     borderRadius: 30,
     alignItems: 'center',
   },
   user: {
-    color: "darkorange",
+    color: "black",
     textAlign: "left",
     alignContent: 'center',
     fontWeight: 'bold',
@@ -190,7 +214,7 @@ const styles = StyleSheet.create({
   },
   lado: {
     flexDirection: 'row',
-    marginBottom: 10,
+    margin: 7,
     alignItems: 'center',
   },
   like: {
@@ -198,7 +222,7 @@ const styles = StyleSheet.create({
     width: 36,
   },
   curtida: {
-    color: "darkorange",
+    color: "black",
     fontWeight: 'bold',
     marginBottom: 10,
     marginLeft: 2,

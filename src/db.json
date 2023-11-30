@@ -95,6 +95,12 @@
       "email": "teste",
       "senha": "teste",
       "id": 16
+    },
+    {
+      "nome": "\"\"",
+      "email": "\"\"",
+      "senha": "\"\"",
+      "id": 17
     }
   ],
   "Bibliotecas": [
@@ -172,6 +178,10 @@
     {
       "livros": [],
       "id": 16
+    },
+    {
+      "livros": [],
+      "id": 17
     }
   ],
   "Postagens": [

@@ -4,7 +4,7 @@ import { BottomNavigation } from 'react-native-paper';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import Feed from './Feed';
-import Perfil from './Perfil';
+import Perfil from './Perfil2';
 import EscolhaChat from './EscolhaChat';
 
 const Home = () => {
@@ -24,7 +24,7 @@ const Home = () => {
       case 'perfil':
         return <Perfil />;
       case 'chat':
-        return <EscolhaChat />
+        return <EscolhaChat navigation={navigation} />
     }
   };
 
@@ -47,11 +47,11 @@ const Home = () => {
       barStyle={{ backgroundColor: '#fef5da' }}
       activeColor="darkorange"
       inactiveColor="gray"
-      onTabPress={({ route }) => {
+      /*onTabPress={({ route }) => {
         if (route.key === 'perfil') {
           navigateToPerfil;
         }
-      }}
+      }}*/
     />
   );
 };
