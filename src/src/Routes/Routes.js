@@ -5,7 +5,12 @@ import Cadastro from '../pages/Cadastro.js';
 import Home from '../pages/Home.js';
 import Publicacao from '../pages/Publicacao.js';
 import Feed from '../pages/Feed.js';
-import Perfil from '../pages/Perfil.js';
+import Perfil2 from '../pages/Perfil2.js';
+import EscolhaChat from '../pages/EscolhaChat.js';
+import Chat1 from '../pages/Chat1.js';
+import Chat2 from '../pages/Chat2.js';
+import Chat3 from '../pages/Chat3.js';
+import grupo2 from '../pages/Grupo2.js';
 
 const Stack = createStackNavigator();
 
@@ -55,7 +60,27 @@ const Routes = () => {
       />
       <Stack.Screen
         name="perfil"
-        component={Perfil}
+        component={Perfil2}
+      />
+      <Stack.Screen
+        name="escolhaChat"
+        component={EscolhaChat}
+      />
+      <Stack.Screen
+        name="chat1"
+        component={Chat1}
+      />
+      <Stack.Screen
+        name="chat2"
+        component={Chat2}
+      />
+      <Stack.Screen
+        name="chat3"
+        component={Chat3}
+      />
+      <Stack.Screen
+        name="grupo2"
+        component={grupo2}
       />
     </Stack.Navigator>
   );
