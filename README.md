@@ -43,7 +43,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Código
 
-<li><a href="RabbitBook/src"> Código Fonte</a></li>
+<li><a href="/src"> Código Fonte</a></li>
 
 # Apresentação
 
