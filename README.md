@@ -49,3 +49,5 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação da solução</a></li>
 
+Link do vídeo da apresentação: https://drive.google.com/file/d/17yRRpxFLwr-0VjpwvXStsLdGm7GU6Irl/view?usp=sharing
+
