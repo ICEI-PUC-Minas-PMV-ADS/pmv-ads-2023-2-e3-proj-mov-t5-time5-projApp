@@ -51,3 +51,9 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 Link do vídeo da apresentação: https://drive.google.com/file/d/17yRRpxFLwr-0VjpwvXStsLdGm7GU6Irl/view?usp=sharing
 
+Ou clique na imagem abaixo e abra nosso vídeo de apresentação da solução.
+
+[![Imagem do vídeo](img.png)](https://drive.google.com/file/d/17yRRpxFLwr-0VjpwvXStsLdGm7GU6Irl/view?usp=sharing)
+
+
+
